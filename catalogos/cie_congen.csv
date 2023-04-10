@@ -1,0 +1,622 @@
+CLAVE,DESCRIP
+Q000,Anencefalia
+Q001,Craneorraquisquisis
+Q002,Iniencefalia
+Q010,Encefalocele frontal
+Q011,Encefalocele nasofrontal
+Q012,Encefalocele occipital
+Q018,Encefalocele de otros sitios
+Q019,"Encefalocele, no especificado"
+Q02X,Microcefalia
+Q030,Malformaciones del acueducto de Silvio
+Q031,Atresia de los agujeros de Magendie y de Luschka
+Q038,Otros hidrocéfalos congénitos
+Q039,"Hidrocéfalo congénito, no especificado"
+Q040,Malformaciones congénitas del cuerpo calloso
+Q041,Arrinencefalia
+Q042,Holoprosencefalia
+Q043,Otras anomalías hipoplásicas del encéfalo
+Q044,Displasia opticoseptal
+Q045,Megalencefalia
+Q046,Quistes cerebrales congénitos
+Q048,"Otras malformaciones congénitas del encéfalo, especificadas"
+Q049,"Malformación congénita del encéfalo, no especificada"
+Q050,Espina bífida cervical con hidrocéfalo
+Q051,Espina bífida torácica con hidrocéfalo
+Q052,Espina bífida lumbar con hidrocéfalo
+Q053,Espina bífida sacra con hidrocéfalo
+Q054,"Espina bífida con hidrocéfalo, sin otra especificación"
+Q055,Espina bífida cervical sin hidrocéfalo
+Q056,Espina bífida torácica sin hidrocéfalo
+Q057,Espina bífida lumbar sin hidrocéfalo
+Q058,Espina bífida sacra sin hidrocéfalo
+Q059,"Espina bífida, no especificada"
+Q060,Amielia
+Q061,Hipoplasia y displasia de la médula espinal
+Q062,Diastematomielia
+Q063,Otras anomalías congénitas de la cola de caballo
+Q064,Hidromielia
+Q068,Otras malformaciones congénitas especificadas de la médula espinal
+Q069,"Malformación congénita de la médula espinal, no especificada"
+Q070,Síndrome de Arnold-Chiari
+Q078,"Otras malformaciones congénitas del sistema nervioso, especificadas"
+Q079,"Otras malformaciones congénitas del sistema nervioso, no especificada"
+Q100,Blefaroptosis congénita
+Q101,Ectropión congénito
+Q102,Entropión congénito
+Q103,Otras malformaciones congénitas de los párpados
+Q104,Ausencia y agenesia del aparato lagrimal
+Q105,Estenosis y estrechez congénitas del conducto lagrimal
+Q106,Otras malformaciones congénitas del aparato lagrimal
+Q107,Malformación congénita de la órbita
+Q110,Globo ocular quístico
+Q111,Otras anoftalmías
+Q112,Microftalmía
+Q113,Macroftalmía
+Q120,Catarata congénita
+Q121,Desplazamiento congénito del cristalino
+Q122,Coloboma del cristalino
+Q123,Afaquia congénita
+Q124,Esferofaquia
+Q128,Otras malformaciones congénitas del cristalino
+Q129,"Malformación congénita del cristalino, no especificada"
+Q130,Coloboma del iris
+Q131,Ausencia del iris
+Q132,Otras malformaciones congénitas del iris
+Q133,Opacidad corneal congénita
+Q134,Otras malformaciones congénitas de la córnea
+Q135,Esclerótica azul
+Q138,Otras malformaciones congénitas del segmento anterior del ojo
+Q139,"Malformación congénita del segmento anterior del ojo, no especificada"
+Q140,Malformación congénita del humor vítreo
+Q141,Malformación congénita de la retina
+Q142,Malformación congénita del disco óptico
+Q143,Malformación congénita de la coroides
+Q148,Otras Malformaciones congénitas del segmento posterior del ojo
+Q149,"Malformación congénita del segmento posterior del ojo, no especificada"
+Q150,Glaucoma congénito
+Q158,"Otras malformaciones congénitas del ojo, especificadas"
+Q159,"Malformaciones congénitas del ojo, no especificadas"
+Q160,Ausencia congénita del pabellón (de la oreja)
+Q161,"Ausencia congénita, atresia o estrechez del conducto auditivo (externo)"
+Q162,Ausencia de la trompa de Eustaquio
+Q163,Malformación congénita de los huesecillos del oído
+Q164,Otras malformaciones congénitas del oído medio
+Q165,Malformación congénita del oído interno
+Q169,"Malformación congénita del oído que causa alteración de la audición, sin otra especificación"
+Q170,Oreja supernumeraria
+Q171,Macrotia
+Q172,Microtia
+Q173,Otras deformidades del pabellón auricular
+Q174,Anomalía de la posición de la oreja
+Q175,Oreja prominente
+Q178,"Otras malformaciones congénitas del oído, especificadas"
+Q179,"Malformación congénita del oído, no especificada"
+Q180,"Seno, fístula o quiste de la hendidura branquial"
+Q181,Seno y quiste preauricular
+Q182,Otras malformaciones de las hendiduras branquiales
+Q183,Pterigión del cuello
+Q184,Macrostomía
+Q185,Microstomía
+Q186,Macroqueilia
+Q187,Microqueilia
+Q188,Otras malformaciones congénitas especificadas de cara y cuello
+Q189,"Malformación congénita de la cara y del cuello, no especificada"
+Q200,Tronco arterioso común
+Q201,Transposición de los grandes vasos en ventrículo derecho
+Q202,Transposición de los grandes vasos en ventrículo izquierdo
+Q203,Discordancia de la conexión ventriculoarterial
+Q204,Ventrículo con doble entrada
+Q205,Discordancia de la conexión auriculoventricular
+Q206,Isomerismo de los apéndices auriculares
+Q208,Otras malformaciones congénitas de las cámaras cardíacas y sus conexiones
+Q209,"Malformación congénita de las cámaras cardíacas y sus conexiones, no especificada"
+Q210,Defecto del tabique ventricular
+Q211,Defecto del tabique auricular
+Q212,Defecto del tabique auriculoventricular
+Q213,Tetralogía de Fallot
+Q214,Defecto del tabique aortopulmonar
+Q218,Otras malformaciones congénitas de los tabiques cardíacos
+Q219,"Malformación congénita del tabique cardíaco, no especificada"
+Q220,Atresia de la válvula pulmonar
+Q221,Estenosis congénita de la válvula pulmonar
+Q222,Insuficiencia congénita de la válvula pulmonar
+Q223,Otras malformaciones congénitas de la válvula pulmonar
+Q224,Estenosis congénita de la válvula tricúspide
+Q225,Anomalía de Ebstein
+Q226,Síndrome de hipoplasia del corazón derecho
+Q228,Otras malformaciones congénitas de la válvula tricúspide
+Q229,"Malformación congénita de la válvula tricúspide, no especificada"
+Q230,Estenosis congénita de la válvula aórtica
+Q231,Insuficiencia congénita de la válvula aórtica
+Q232,Estenosis mitral congénita
+Q233,Insuficiencia mitral congénita
+Q234,Síndrome de hipoplasia del corazón izquierdo
+Q238,Otras malformaciones congénitas de las válvulas aórtica y mitral
+Q239,"Malformación congénita de las válvulas aórtica y mitral, no especificada"
+Q240,Dextrocardia
+Q241,Levocardia
+Q242,Corazón triauricular
+Q243,Estenosis del infundíbulo pulmonar
+Q244,Estenosis subaórtica congénita
+Q245,Malformación de los vasos coronarios
+Q246,Bloqueo cardíaco congénito
+Q248,"Otras malformaciones congénitas del corazón, especificadas"
+Q249,"Malformación congénita del corazón, no especificada"
+Q250,Conducto arterioso persistente
+Q251,Coartación de la aorta
+Q252,Atresia de la aorta
+Q253,Estenosis de la aorta
+Q254,Otras malformaciones congénitas de la aorta
+Q255,Atresia de la arteria pulmonar
+Q256,Estenosis de la arteria pulmonar
+Q257,Otras malformaciones congénitas de la arteria pulmonar
+Q258,Otras malformaciones congénitas de las grandes arterias
+Q259,"Malformación congénita de las grandes arterias, no especificada"
+Q260,Estenosis congénita de la vena cava
+Q261,Persistencia de la vena cava superior izquierda
+Q262,Conexión anómala total de las venas pulmonares
+Q263,Conexión anómala parcial de las venas pulmonares
+Q264,"Conexión anómala de las venas pulmonares, sin otra especificación"
+Q265,Conexión anómala de la vena porta
+Q266,Fístula arteria hepática-vena porta
+Q268,Otras malformaciones congénitas de las grandes venas
+Q269,"Malformación congénita de las grandes venas, no especificada"
+Q270,Ausencia e hipoplasia congénita de la arteria umbilical
+Q271,Estenosis congénita de la arteria renal
+Q272,Otras malformaciones congénitas de la arteria renal
+Q273,Malformación arteriovenosa periférica
+Q274,Flebectasia congénita
+Q278,"Otras malformaciones congénitas del sistema vascular periférico, especificadas"
+Q279,"Malformación congénita del sistema vascular periférico, no especificada"
+Q280,Malformación arteriovenosa de los vasos precerebrales
+Q281,Otras malformaciones de los vasos precerebrales
+Q282,Malformación arteriovenosa de los vasos cerebrales
+Q283,Otras malformaciones de los vasos cerebrales
+Q288,"Otras malformaciones congénitas del sistema circulatorio, especificadas"
+Q289,"Malformación congénita del sistema circulatorio, no especificada"
+Q300,Atresia de las coanas
+Q301,Agenesia o hipoplasia de la nariz
+Q302,"Hendidura, fisura o muesca de la nariz"
+Q303,Perforación congénita del tabique nasal
+Q308,Otras malformaciones congénitas de la nariz
+Q309,"Malformación congénita de la nariz, no especificada"
+Q310,Pterigión de la laringe
+Q311,Estenosis subglótica congénita
+Q312,Hipoplasia laríngea
+Q313,Laringocele
+Q315,Laringomalasia congénita
+Q318,Otras malformaciones congénitas de la laringe
+Q319,"Malformación congénita de la laringe, no especificada"
+Q320,Traqueomalacia congénita
+Q321,Otras malformaciones congénitas de la tráquea
+Q322,Broncomalacia congénita
+Q323,Estenosis congénita de los bronquios
+Q324,Otras malformaciones congénitas de los bronquios
+Q330,Quiste pulmonar congénito
+Q331,Lóbulo pulmonar supernumerario
+Q332,Secuestro del pulmón
+Q333,Agenesia del pulmón
+Q334,Bronquiectasia congénita
+Q335,Tejido ectópico en el pulmón
+Q336,Hipoplasia y displasia pulmonar
+Q338,Otras malformaciones congénitas del pulmón
+Q339,"Malformación congénita del pulmón, no especificada"
+Q340,Anomalía de la pleura
+Q341,Quiste congénito del mediastino
+Q348,Otras malformaciones congénitas especificadas del sistema respiratorio
+Q349,"Malformación congénita del sistema respiratorio, no especificada"
+Q351,Fisura del paladar duro
+Q353,Fisura del paladar blando
+Q355,Fisura del paladar duro y del paladar blando
+Q357,Fisura de la úvula
+Q359,"Fisura del paladar, sin otra especificación"
+Q360,"Labio leporino, bilateral"
+Q361,"Labio leporino, línea media"
+Q369,"Labio leporino, unilateral"
+Q370,Fisura del paladar duro con labio leporino bilateral
+Q371,Fisura del paladar duro con labio leporino unilateral
+Q372,Fisura del paladar blando con labio leporino bilateral
+Q373,Fisura del paladar blando con labio leporino unilateral
+Q374,Fisura del paladar duro y del paladar blando con labio leporino bilateral
+Q375,Fisura del paladar duro y del paladar blando con labio leporino unilateral
+Q378,"Fisura del paladar con labio leporino bilateral, sin otra especificación"
+Q379,"Fisura del paladar con labio leporino unilateral, sin otra especificación"
+Q380,"Malformaciones congénitas de los labios, no clasificadas en otra parte"
+Q381,Anquiloglosia
+Q382,Macroglosia
+Q383,Otras malformaciones congénitas de la lengua
+Q384,Malformaciones congénitas de las glándulas y de los conductos salivales
+Q385,"Malformaciones congénitas del paladar, no clasificadas en otra parte"
+Q386,Otras malformaciones congénitas de la boca
+Q387,Divertículo faríngeo
+Q388,Otras malformaciones congénitas de la faringe
+Q390,Atresia del esófago sin mención de fístula
+Q391,Atresia del esófago con fístula traqueoesofágica
+Q392,Fístula traqueoesofágica congénita sin mención de atresia
+Q393,Estrechez o estenosis congénita del esófago
+Q394,Pterigión del esófago
+Q395,Dilatación congénita del esófago
+Q396,Divertículo del esófago
+Q398,Otras malformaciones congénitas del esófago
+Q399,"Malformación congénita del esófago, no especificada"
+Q400,Estenosis hipertrófica congénita del píloro
+Q401,Hernia hiatal congénita
+Q402,"Otras malformaciones congénitas del estómago, especificadas"
+Q403,"Malformación congénita del estómago, no especificada"
+Q408,Otras malformaciones congénitas de la parte superior del tubo digestivo
+Q409,"Malformación congénita de la parte superior del tubo digestivo, no especificada"
+Q410,"Ausencia, atresia y estenosis congénita del duodeno"
+Q411,"Ausencia, atresia y estenosis congénita del yeyuno"
+Q412,"Ausencia, atresia y estenosis congénita del íleon"
+Q418,"Ausencia, atresia y estenosis congénita de otras partes especificadas del intestino delgado"
+Q419,"Ausencia, atresia y estenosis congénita del intestino delgado, parte no especificada"
+Q420,"Ausencia, atresia y estenosis congénita del recto, con fístula"
+Q421,"Ausencia, atresia y estenosis congénita del recto, sin fístula"
+Q422,"Ausencia, atresia y estenosis congénita del ano, con fístula"
+Q423,"Ausencia, atresia y estenosis congénita del ano, sin fístula"
+Q428,"Ausencia, atresia y estenosis congénita de otras partes del intestino grueso"
+Q429,"Ausencia, atresia y estenosis congénita del intestino grueso, parte no especificada"
+Q430,Divertículo de Meckel
+Q431,Enfermedad de Hirschsprung
+Q432,Otros trastornos funcionales congénitos del colon
+Q433,Malformaciones congénitas de la fijación del intestino
+Q434,Duplicación del intestino
+Q435,Ano ectópico
+Q436,Fístula congénita del recto y del ano
+Q437,Persistencia de la cloaca
+Q438,"Otras malformaciones congénitas del intestino, especificadas"
+Q439,"Malformación congénita del intestino, no especificada"
+Q440,"Agenesia, aplasia e hipoplasia de la vesícula biliar"
+Q441,Otras malformaciones congénitas de la vesícula biliar
+Q442,Atresia de los conductos biliares
+Q443,Estrechez y estenosis congénita de los conductos biliares
+Q444,Quiste del colédoco
+Q445,Otras malformaciones congénitas de los conductos biliares
+Q446,Enfermedad quística del hígado
+Q447,Otras malformaciones congénitas del hígado
+Q450,"Agenesia, aplasia e hipoplasia del páncreas"
+Q451,Páncreas anular
+Q452,Quiste congénito del páncreas
+Q453,Otras malformaciones congénitas del páncreas y del conducto pancreático
+Q458,"Otras malformaciones congénitas del sistema digestivo, especificadas"
+Q459,"Malformación congénita del sistema digestivo, no especificada"
+Q500,Ausencia congénita de ovario
+Q501,Quiste en desarrollo del ovario
+Q502,Torsión congénita del ovario
+Q503,Otras malformaciones congénitas de los ovarios
+Q504,Quiste embrionario de la trompa de Falopio
+Q505,Quiste embrionario del ligamento ancho
+Q506,Otras malformaciones congénitas de la trompa de Falopio y del ligamento ancho
+Q510,Agenesia y aplasia del útero
+Q511,Duplicación del útero con duplicación del cuello uterino y de la vagina
+Q512,Otra duplicación del útero
+Q513,Útero bicorne
+Q514,Útero unicorne
+Q515,Agenesia y aplasia del cuello uterino
+Q516,Quiste embrionario del cuello uterino
+Q517,Fístula congénita entre el útero y el tracto digestivo y urinario
+Q518,Otras malformaciones congénitas del útero y del cuello uterino
+Q519,"Malformación congénita del útero y del cuello uterino, no especificada"
+Q520,Ausencia congénita de la vagina
+Q521,Duplicación de la vagina
+Q522,Fístula rectovaginal congénita
+Q523,Himen imperforado
+Q524,Otras malformaciones congénitas de la vagina
+Q525,Fusión de labios de la vulva
+Q526,Malformación congénita del clítoris
+Q527,Otras malformaciones congénitas de la vulva
+Q528,"Otras malformaciones congénitas de los órganos genitales femeninos, especificadas"
+Q529,"Malformación congénita de los genitales femeninos, no especificada"
+Q530,Ectopia testicular
+Q531,"Testículo no descendido, unilateral"
+Q532,"Testículo no descendido, bilateral"
+Q539,"Testículo no descendido, sin otra especificación"
+Q540,Hipospadias del glande
+Q541,Hipospadias peneana
+Q542,Hipospadias penoscrotal
+Q543,Hipospadias perineal
+Q544,Encordamiento congénito del pene
+Q548,Otras hipospadias
+Q549,"Hipospadias, no especificada"
+Q550,Ausencia y aplasia del testículo
+Q551,Hipoplasia del testículo y del escroto
+Q552,Otras malformaciones congénitas de los testículos y del escroto
+Q553,Atresia del conducto deferente
+Q554,"Otras malformaciones congénitas de los conductos deferentes, del epidídimo, de las vesículas seminales y de la próstata"
+Q555,Aplasia y ausencia congénita del pene
+Q556,Otras malformaciones congénitas del pene
+Q558,"Otras malformaciones congénitas de los órganos genitales masculinos, especificadas"
+Q559,"Malformación congénita de los órganos genitales masculinos, no especificada"
+Q560,"Hermafroditismo, no clasificado en otra parte"
+Q561,"Seudohermafroditismo masculino, no clasificado en otra parte"
+Q562,"Seudohermafroditismo femenino, no clasificado en otra parte"
+Q563,"Seudohermafroditismo, no especificado"
+Q564,"Sexo indeterminado, sin otra especificación"
+Q600,"Agenesia renal, unilateral"
+Q601,"Agenesia renal, bilateral"
+Q602,"Agenesia renal, sin otra especificación"
+Q603,"Hipoplasia renal, unilateral"
+Q604,"Hipoplasia renal, bilateral"
+Q605,"Hipoplasia renal, no especificada"
+Q606,Síndrome de Potter
+Q610,Quiste renal solitario congénito
+Q611,"Riñón poliquístico, autosómico recesivo"
+Q612,"Riñón poliquístico, autosómico dominante"
+Q613,"Riñón poliquístico, tipo no especificado"
+Q614,Displasia renal
+Q615,Riñón quístico medular
+Q618,Otras enfermedades renales quísticas
+Q619,"Enfermedad quística del riñón, no especificada"
+Q620,Hidronefrosis congénita
+Q621,Atresia y estenosis del uréter
+Q622,Megalouréter congénito
+Q623,Otros defectos obstructivos de la pelvis renal y del uréter
+Q624,Agenesia del uréter
+Q625,Duplicación del uréter
+Q626,Mala posición del uréter
+Q627,Reflujo vésico-urétero-renal congénito
+Q628,Otras malformaciones congénitas del uréter
+Q630,Riñón supernumerario
+Q631,"Riñón lobulado, fusionado y en herradura"
+Q632,Riñón ectópico
+Q633,Hiperplasia renal y riñón gigante
+Q638,"Otras malformaciones congénitas del riñón, especificadas"
+Q639,"Malformación congénita del riñón, no especificada"
+Q640,Epispadias
+Q641,Extrofia de la vejiga urinaria
+Q642,Válvulas uretrales posteriores congénitas
+Q643,Otras atresias y estenosis de la uretra y del cuello de la vejiga
+Q644,Malformación del uraco
+Q645,Ausencia congénita de la vejiga y de la uretra
+Q646,Divertículo congénito de la vejiga
+Q647,Otras malformaciones congénitas de la vejiga y de la uretra
+Q648,"Otras malformaciones congénitas del aparato urinario, especificadas"
+Q649,"Malformación congénita del aparato urinario, no especificada"
+Q650,"Luxación congénita de la cadera, unilateral"
+Q651,"Luxación congénita de la cadera, bilateral"
+Q652,"Luxación congénita de la cadera, no especificada"
+Q653,"Subluxación congénita de la cadera, unilateral"
+Q654,"Subluxación congénita de la cadera, bilateral"
+Q655,"Subluxación congénita de la cadera, no especificada"
+Q656,Cadera inestable
+Q658,Otras deformidades congénitas de la cadera
+Q659,"Deformidad congénita de la cadera, no especificada"
+Q660,Talipes equinovarus
+Q661,Talipes calcaneovarus
+Q662,Metatarsus varus
+Q663,Otras deformidades varus congénitas de los pies
+Q664,Talipes calcaneovalgus
+Q665,Pie plano congénito
+Q666,Otras deformidades valgus congénitas de los pies
+Q667,Pie cavus
+Q668,Otras deformidades congénitas de los pies
+Q669,"Deformidad congénita de los pies, no especificada"
+Q670,Asimetría facial
+Q671,Facies comprimida
+Q672,Dolicocefalia
+Q673,Plagiocefalia
+Q674,"Otras deformidades congénitas del cráneo, de la cara y de la mandíbula"
+Q675,Deformidad congénita de la columna vertebral
+Q676,tórax excavado
+Q677,Tórax en quilla
+Q678,Otras deformidades congénitas del tórax
+Q680,Deformidad congénita del músculo esternocleidomastoideo
+Q681,Deformidad congénita de la mano
+Q682,Deformidad congénita de la rodilla
+Q683,Curvatura congénita del fémur
+Q684,Curvatura congénita de la tibia y del peroné
+Q685,"Curvatura congénita de hueso(s) largo(s) del miembro inferior, sin otra especificación"
+Q688,"Otras deformidades congénitas osteomusculares, especificadas"
+Q690,Dedo(s) supernumerario(s) de la mano
+Q691,Pulgar(es) supernumerario(s)
+Q692,Dedo(s) supernumerario(s) del pie
+Q699,"Polidactilia, no especificada"
+Q700,Fusión de los dedos de la mano
+Q701,Membrana interdigital de la mano
+Q702,Fusión de los dedos del pie
+Q703,Membrana interdigital del pie
+Q704,Polisindactilia
+Q709,"Sindactilia, no especificada"
+Q710,Ausencia congénita completa del (de los) miembro(s) superior(es)
+Q711,Ausencia congénita del brazo y del antebrazo con presencia de la mano
+Q712,Ausencia congénita del antebrazo y de la mano
+Q713,Ausencia congénita de la mano y el (los) dedo(s)
+Q714,Defecto por reducción longitudinal del radio
+Q715,Defecto por reducción longitudinal del cúbito
+Q716,Mano en pinza de langosta
+Q718,Otros defectos por reducción del (de los) miembro(s) superior(es)
+Q719,"Defecto por reducción del miembro superior, no especificado"
+Q720,Ausencia congénita completa del (de los) miembro(s) inferior(es)
+Q721,Ausencia congénita del muslo y de la pierna con presencia del pie
+Q722,Ausencia congénita de la pierna y del pie
+Q723,Ausencia congénita del pie y dedo(s) del pie
+Q724,Defecto por reducción longitudinal del fémur
+Q725,Defecto por reducción longitudinal de la tibia
+Q726,Defecto por reducción longitudinal del peroné
+Q727,Pie hendido
+Q728,Otros defectos por reducción del (de los) miembro(s) inferior(es)
+Q729,"Defecto por reducción del miembro inferior, no especificado"
+Q730,Ausencia completa de miembro(s) no especificado(s)
+Q731,"Focomelia, miembro(s) no especificado(s)"
+Q738,Otros defectos por reducción de miembro(s) no especificado(s)
+Q740,"Otras malformaciones congénitas del (de los) miembro(s) superior(es), incluida la cintura escapular"
+Q741,Malformación congénita de la rodilla
+Q742,"Otras malformaciones congénitas del (de los) miembro(s) inferior(es), incluida la cintura pelviana"
+Q743,Artrogriposis múltiple congénita
+Q748,Otras malformaciones congénitas especificadas del (de los) miembro(s)
+Q749,"Malformación congénita de miembro(s), no especificada"
+Q750,Craneosinostosis
+Q751,Disostosis craneofacial
+Q752,Hipertelorismo
+Q753,Macrocefalia
+Q754,Disostosis maxilofacial
+Q755,Disostosis oculomaxilar
+Q758,Otras malformaciones congénitas especificadas de los huesos del cráneo y de la cara
+Q759,Malformación congénita no especificada de los huesos del cráneo y de la cara
+Q760,Espina bífida oculta
+Q761,Síndrome de Klippel-Feil
+Q762,Espondilolistesis congénita
+Q763,Escoliosis congénita debida a malformación congénita ósea
+Q764,"Otra malformación congénita de la columna vertebral, no asociada con escoliosis"
+Q765,Costilla cervical
+Q766,Otras malformaciones congénitas de las costillas
+Q767,Malformación congénita del esternón
+Q768,Otras malformaciones congénitas del tórax óseo
+Q769,"Malformación congénita del tórax óseo, no especificada"
+Q770,Acondrogénesis
+Q771,Enanismo tanatofórico
+Q772,Síndrome de costilla corta
+Q773,Condrodisplasia punctata
+Q774,Acondroplasia
+Q775,Displasia distrófica
+Q776,Displasia condroectodérmica
+Q777,Displasia espondiloepifisaria
+Q778,Otras osteocondrodisplasias con defectos del crecimiento de los huesos largos y de la columna vertebral
+Q779,"Osteocondrodisplasia con defectos del crecimiento de los huesos largos y de la columna vertebral, sin otra especificación"
+Q780,Osteogénesis imperfecta
+Q781,Displasia poliostótica fibrosa
+Q782,Osteopetrosis
+Q783,Displasia diafisaria progresiva
+Q784,Encondromatosis
+Q785,Displasia metafisaria
+Q786,Exostosis congénita múltiple
+Q788,Otras osteocondrodisplasias especificadas
+Q789,"Osteocondrodisplasia, no especificada"
+Q790,Hernia diafragmática congénita
+Q791,Otras malformaciones congénitas del diafragma
+Q792,Exónfalos
+Q793,Gastrosquisis
+Q794,Síndrome del abdomen en ciruela pasa
+Q795,Otras malformaciones congénitas de la pared abdominal
+Q796,Síndrome de Ehlers-Danlos
+Q798,Otras malformaciones congénitas del sistema osteomuscular
+Q799,"Malformación congénita del sistema osteomuscular, no especificada"
+Q800,Ictiosis vulgar
+Q801,Ictiosis ligada al cromosoma X
+Q802,Ictiosis lamelar
+Q803,Eritrodermia ictiosiforme vesicular congénita
+Q804,Feto Arlequín
+Q808,Otras ictiosis congénitas
+Q809,"Ictiosis congénita, no especificada"
+Q810,Epidermólisis bullosa simple
+Q811,Epidermólisis bullosa letal
+Q812,Epidermólisis bullosa distrófica
+Q818,Otras Epidermólisis bullosas
+Q819,"Epidermólisis bullosa, no especificada"
+Q820,Linfedema hereditario
+Q821,Xeroderma pigmentoso
+Q822,Mastocitosis
+Q823,Incontinencia pigmentaria
+Q824,Displasia ectodérmica (anhidrótica)
+Q825,"Nevo no neoplásico, congénito"
+Q828,"Otras malformaciones congénitas de la piel, especificadas"
+Q829,"Malformación congénita de la piel, no especificada"
+Q830,Ausencia congénita de la mama con ausencia del pezón
+Q831,Mama supernumeraria
+Q832,Ausencia del pezón
+Q833,Pezón supernumerario
+Q838,Otras malformaciones congénitas de la mama
+Q839,"Malformación congénita de la mama, no especificada"
+Q840,Alopecia congénita
+Q841,"Alteraciones morfológicas congénitas del pelo, no clasificadas en otra parte"
+Q842,Otras malformaciones congénitas del pelo
+Q843,Anoniquia
+Q844,Leuconiquia congénita
+Q845,Agrandamiento e hipertrofia de las uñas
+Q846,Otras malformaciones congénitas de las uñas
+Q848,"Otras malformaciones congénitas de las faneras, especificadas"
+Q849,"Malformación congénita de las faneras, no especificada"
+Q850,Neurofibromatosis (no maligna)
+Q851,Esclerosis tuberosa
+Q858,"Otras facomatosis, no clasificadas en otra parte"
+Q859,"Facomatosis, no especificada"
+Q860,Síndrome fetal (dismórfico) debido al alcohol
+Q861,Síndrome de hidantoína fetal
+Q862,Dismorfismo debido a warfarina
+Q868,Otros síndromes de malformaciones congénitas debidos a causas exógenas conocidas
+Q870,Síndromes de malformaciones congénitas que afectan principalmente la apariencia facial
+Q871,Síndromes de malformaciones congénitas asociadas principalmente con estatura baja
+Q872,Síndromes de malformaciones congénitas que afectan principalmente los miembros
+Q873,Síndromes de malformaciones congénitas con exceso de crecimiento precoz
+Q874,Síndrome de Marfan
+Q875,Otros síndromes de malformaciones congénitas con otros cambios esqueléticos
+Q878,"Otros síndromes de malformaciones congénitas especificados, no clasificados en otra parte"
+Q890,Malformaciones congénitas del bazo
+Q891,Malformaciones congénitas de la glándula suprarrenal
+Q892,Malformaciones congénitas de otras glándulas endocrinas
+Q893,Situs inversus
+Q894,Gemelos siameses
+Q897,"Malformaciones congénitas múltiples, no clasificadas en otra parte"
+Q898,"Otras malformaciones congénitas, especificadas"
+Q899,"Malformación congénita, no especificada"
+Q900,"Trisomía 21, por falta de disyunción meiótica"
+Q901,"Trisomía 21, mosaico (por falta de disyunción mitótica)"
+Q902,"Trisomia 21, por translocación"
+Q909,"Síndrome de Down, no especificado"
+Q910,"Trisomia 18, por falta de disyunción meiótica"
+Q911,"Trisomía 18, mosaico (por falta de disyunción mitótica)"
+Q912,"Trisomía 18, por translocación"
+Q913,"Síndrome de Edwards, no especificado"
+Q914,"Trisomía 13, por falta de disyunción meiótica"
+Q915,"Trisomía 13, mosaico (por falta de disyunción mitótica)"
+Q916,"Trisomía 13, por translocación"
+Q917,"Síndrome de Patau, no especificado"
+Q920,"Trisomía de un cromosoma completo, por falta de disyunción meiótica"
+Q921,"Trisomía de un cromosoma completo, mosaico (por falta de disyunción mitótica)"
+Q922,Trisomía parcial mayor
+Q923,Trisomía parcial menor
+Q924,Duplicaciones visibles solo en la prometafase
+Q925,Duplicaciones con otros reordenamientos complejos
+Q926,Cromosomas marcadores suplementarios
+Q927,Triploidía y poliploidía
+Q928,"Otras trisomías y trisomías parciales de los autosomas, especificadas"
+Q929,"Trisomía y Trisomía parcial de los autosomas, sin otra especificación"
+Q930,"Monosomía completa de un cromosoma, por falta de disyunción meiótica"
+Q931,"Monosomía completa de un cromosoma, mosaico (por falta de disyunción mitótica)"
+Q932,Cromosoma reemplazado por anillo o dicéntrico
+Q933,Supresión del brazo corto del cromosoma 4
+Q934,Supresión del brazo corto del cromosoma 5
+Q935,Otras supresiones de parte de un cromosoma
+Q936,Supresiones visibles sólo en la prometafase
+Q937,Supresiones con otros reordenamientos complejos
+Q938,Otras supresiones de los autosomas
+Q939,"Supresión de los autosomas, no especificada"
+Q950,Translocación equilibrada e inserción en individuo normal
+Q951,Inversión cromosómica en individuo normal
+Q952,Reordenamiento autosómico equilibrado en individuo anormal
+Q953,Reordenamiento autosómico/sexual equilibrado en individuo anormal
+Q954,Individuos con heterocromatina marcadora
+Q955,Individuos con sitio frágil autosómico
+Q958,Otros reordenamientos equilibrados y marcadores estructurales
+Q959,"Reordenamiento equilibrado y marcador estructural, sin otra especificación"
+Q960,"Cariotipo 45,X"
+Q961,"Cariotipo 46,X iso (Xq)"
+Q962,"Cariotipo 46,X con cromosoma sexual anormal excepto iso (Xq)"
+Q963,"Mosaico 45, X/46,XX o XY"
+Q964,"Mosaico 45,X/otra(s) línea(s) celular(es) con cromosoma sexual anormal"
+Q968,Otras variantes del síndrome de Turner
+Q969,"Síndrome de Turner, no especificado"
+Q970,"Cariotipo 47, XXX"
+Q971,Mujer con más de tres cromosomas X
+Q972,"Mosaico, líneas con número variable de cromosomas X"
+Q973,"Mujer con cariotipo 46, XY"
+Q978,"Otras anomalías de los cromosomas  sexuales, con fenotipo femenino, especificadas"
+Q979,"Anomalía de los cromosomas sexuales, con fenotipo femenino, sin otra especificación"
+Q980,"Síndrome de Klinefelter, cariotipo 47, XXY"
+Q981,"Síndrome de Klinefelter, hombre con más de dos cromosomas X"
+Q982,"Síndrome de Klinefelter, hombre con cariotipo 46, XX"
+Q983,"Otro hombre con cariotipo 46, XX"
+Q984,"Síndrome de Klinefelter, no especificado"
+Q985,"Cariotipo 47, XYY"
+Q986,Hombre con cromosoma sexual estructuralmente anormal
+Q987,Hombre con mosaico de cromosomas sexuales
+Q988,"Otras anomalías de los cromosomas sexuales, con fenotipo masculino, especificadas"
+Q989,"Anomalía de los cromosomas sexuales, fenotipo masculino, sin otra especificación"
+Q990,"Quimera 46, XX/46, XY"
+Q991,"Hermafrodita verdadero 46, XX"
+Q992,Cromosoma X frágil
+Q998,"Otras anomalías de los cromosomas, especificadas"
+Q999,"Anomalía cromosómica, no especificada"
+8888,Sin malformación y anomalía congénita
+,Celda vacia sin causa congénita

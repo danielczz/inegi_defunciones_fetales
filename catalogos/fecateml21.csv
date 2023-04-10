@@ -1,0 +1,4751 @@
+cve_ent,cve_mun,cve_loc,nom_loc
+1,0,0,Aguascalientes
+1,1,0,Aguascalientes
+1,1,1,Aguascalientes
+1,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+1,1,9999,Localidad no especificada
+1,2,0,Asientos
+1,2,1,Asientos
+1,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+1,2,9999,Localidad no especificada
+1,3,0,Calvillo
+1,3,1,Calvillo
+1,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+1,4,0,Cosío
+1,4,1,Cosío
+1,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+1,5,0,Jesús María
+1,5,1,Jesús María
+1,5,469,Jesús María [Ejido]
+1,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+1,6,0,Pabellón de Arteaga
+1,6,1,Pabellón de Arteaga
+1,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+1,7,0,Rincón de Romos
+1,7,1,Rincón de Romos
+1,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+1,8,0,San José de Gracia
+1,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+1,9,0,Tepezalá
+1,9,1,Tepezalá
+1,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+1,10,0,El Llano
+1,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+1,11,0,San Francisco de los Romo
+1,11,1,San Francisco de los Romo
+1,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+2,0,0,Baja California
+2,1,0,Ensenada
+2,1,1,Ensenada
+2,1,139,Rodolfo Sánchez Taboada (Maneadero)
+2,1,2693,Ejido Ensenada
+2,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+2,1,9999,Localidad no especificada
+2,2,0,Mexicali
+2,2,1,Mexicali
+2,2,185,Ciudad Guadalupe Victoria (Kilómetro Cuarenta y Tres)
+2,2,231,Ciudad Morelos (Cuervos)
+2,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+2,2,9999,Localidad no especificada
+2,3,0,Tecate
+2,3,1,Tecate
+2,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+2,4,0,Tijuana
+2,4,1,Tijuana
+2,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+2,4,9999,Localidad no especificada
+2,5,0,Playas de Rosarito
+2,5,1,Playas de Rosarito
+2,5,9999,Localidad no especificada
+2,6,0,San Quintín
+2,6,1,San Quintín
+2,6,40,Camalú
+2,6,863,Vicente Guerrero
+2,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+2,6,9999,Localidad no especificada
+3,0,0,Baja California Sur
+3,1,0,Comondú
+3,1,1,Ciudad Constitución
+3,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+3,2,0,Mulegé
+3,2,1,Santa Rosalía
+3,2,66,Guerrero Negro
+3,2,482,Villa Alberto Andrés Alvarado Arámburo
+3,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+3,2,9999,Localidad no especificada
+3,3,0,La Paz
+3,3,1,La Paz
+3,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+3,8,0,Los Cabos
+3,8,1,San José del Cabo
+3,8,54,Cabo San Lucas
+3,8,9999,Localidad no especificada
+3,9,0,Loreto
+3,9,1,Loreto
+3,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+4,0,0,Campeche
+4,1,0,Calkiní
+4,1,1,Calkiní
+4,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+4,2,0,Campeche
+4,2,1,San Francisco de Campeche
+4,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+4,2,9999,Localidad no especificada
+4,3,0,Carmen
+4,3,1,Ciudad del Carmen
+4,3,3333,Mamantel (Pancho Villa)
+4,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+4,4,0,Champotón
+4,4,1,Champotón
+4,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+4,5,0,Hecelchakán
+4,5,1,Hecelchakán
+4,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+4,6,0,Hopelchén
+4,6,1,Hopelchén
+4,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+4,6,9999,Localidad no especificada
+4,8,0,Tenabo
+4,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+4,9,0,Escárcega
+4,9,1,Escárcega
+4,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+4,10,0,Calakmul
+4,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+4,11,0,Candelaria
+4,11,319,El Machetazo
+4,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+4,12,0,Seybaplaya
+4,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+4,13,0,Dzitbalché
+4,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,0,0,Coahuila de Zaragoza
+5,2,0,Acuña
+5,2,1,Ciudad Acuña
+5,3,0,Allende
+5,3,1,Allende
+5,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,4,0,Arteaga
+5,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,6,0,Castaños
+5,6,1,Castaños
+5,7,0,Cuatro Ciénegas
+5,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,9,0,Francisco I. Madero
+5,9,1,Francisco I. Madero (Chávez)
+5,10,0,Frontera
+5,10,1,Frontera
+5,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,11,0,General Cepeda
+5,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,13,0,Hidalgo
+5,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,17,0,Matamoros
+5,17,1,Matamoros
+5,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,18,0,Monclova
+5,18,1,Monclova
+5,19,0,Morelos
+5,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,20,0,Múzquiz
+5,20,1,Ciudad Melchor Múzquiz
+5,20,93,Palaú
+5,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,21,0,Nadadores
+5,21,1,Nadadores
+5,22,0,Nava
+5,22,1,Nava
+5,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,24,0,Parras
+5,24,1,Parras de la Fuente
+5,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,25,0,Piedras Negras
+5,25,1,Piedras Negras
+5,27,0,Ramos Arizpe
+5,27,1,Ramos Arizpe
+5,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,28,0,Sabinas
+5,28,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,29,0,Sacramento
+5,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,30,0,Saltillo
+5,30,1,Saltillo
+5,30,727,El Salto
+5,30,9999,Localidad no especificada
+5,31,0,San Buenaventura
+5,31,1,San Buenaventura
+5,32,0,San Juan de Sabinas
+5,32,14,Nueva Rosita
+5,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,33,0,San Pedro
+5,33,1,San Pedro
+5,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,34,0,Sierra Mojada
+5,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,35,0,Torreón
+5,35,1,Torreón
+5,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,35,9999,Localidad no especificada
+5,36,0,Viesca
+5,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,37,0,Villa Unión
+5,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+5,38,0,Zaragoza
+5,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+6,0,0,Colima
+6,1,0,Armería
+6,1,1,Ciudad de Armería
+6,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+6,2,0,Colima
+6,2,1,Colima
+6,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+6,2,9999,Localidad no especificada
+6,3,0,Comala
+6,3,1,Comala
+6,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+6,4,0,Coquimatlán
+6,4,1,Coquimatlán
+6,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+6,5,0,Cuauhtémoc
+6,5,1,Cuauhtémoc
+6,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+6,6,0,Ixtlahuacán
+6,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+6,7,0,Manzanillo
+6,7,1,Manzanillo
+6,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+6,7,9999,Localidad no especificada
+6,8,0,Minatitlán
+6,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+6,9,0,Tecomán
+6,9,1,Tecomán
+6,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+6,9,9999,Localidad no especificada
+6,10,0,Villa de Álvarez
+6,10,1,Ciudad de Villa de Álvarez
+7,0,0,Chiapas
+7,1,0,Acacoyagua
+7,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,2,0,Acala
+7,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,3,0,Acapetahua
+7,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,4,0,Altamirano
+7,4,1,Altamirano
+7,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,5,0,Amatán
+7,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,6,0,Amatenango de la Frontera
+7,6,1,Amatenango de la Frontera
+7,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,7,0,Amatenango del Valle
+7,8,0,Ángel Albino Corzo
+7,8,1,Jaltenango de la Paz (Ángel Albino Corzo)
+7,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,9,0,Arriaga
+7,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,10,0,Bejucal de Ocampo
+7,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,11,0,Bella Vista
+7,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,12,0,Berriozábal
+7,12,1,Berriozábal
+7,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,13,0,Bochil
+7,13,1,Bochil
+7,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,14,0,El Bosque
+7,14,1,El Bosque
+7,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,15,0,Cacahoatán
+7,15,1,Cacahoatán
+7,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,16,0,Catazajá
+7,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,17,0,Cintalapa
+7,17,1,Cintalapa de Figueroa
+7,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,18,0,Coapilla
+7,18,1,Coapilla
+7,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,19,0,Comitán de Domínguez
+7,19,1,Comitán de Domínguez
+7,19,30,Chichimá Acapetahua
+7,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,19,9999,Localidad no especificada
+7,20,0,La Concordia
+7,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,21,0,Copainalá
+7,21,1,Copainalá
+7,21,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,22,0,Chalchihuitán
+7,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,23,0,Chamula
+7,23,1,Chamula
+7,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,24,0,Chanal
+7,24,1,Chanal
+7,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,24,9999,Localidad no especificada
+7,26,0,Chenalhó
+7,26,1,Chenalhó
+7,26,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,27,0,Chiapa de Corzo
+7,27,1,Chiapa de Corzo
+7,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,28,0,Chiapilla
+7,28,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,30,0,Chicomuselo
+7,30,1,Chicomuselo
+7,30,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,31,0,Chilón
+7,31,1,Chilón
+7,31,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,32,0,Escuintla
+7,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,33,0,Francisco León
+7,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,34,0,Frontera Comalapa
+7,34,1,Frontera Comalapa
+7,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,35,0,Frontera Hidalgo
+7,35,1,Frontera Hidalgo
+7,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,36,0,La Grandeza
+7,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,37,0,Huehuetán
+7,37,1,Huehuetán
+7,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,37,9999,Localidad no especificada
+7,38,0,Huixtán
+7,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,39,0,Huitiupán
+7,39,1,Huitiupán
+7,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,40,0,Huixtla
+7,40,1,Huixtla
+7,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,41,0,La Independencia
+7,41,1,La Independencia
+7,41,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,42,0,Ixhuatán
+7,42,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,43,0,Ixtacomitán
+7,43,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,44,0,Ixtapa
+7,44,1,Ixtapa
+7,44,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,45,0,Ixtapangajoya
+7,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,46,0,Jiquipilas
+7,46,1,Jiquipilas
+7,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,47,0,Jitotol
+7,47,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,49,0,Larráinzar
+7,49,1,Larráinzar
+7,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,51,0,Mapastepec
+7,51,1,Mapastepec
+7,51,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,52,0,Las Margaritas
+7,52,1,Las Margaritas
+7,52,44,Guadalupe Tepeyac
+7,52,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,53,0,Mazapa de Madero
+7,54,0,Mazatán
+7,54,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,56,0,Mitontic
+7,56,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,57,0,Motozintla
+7,57,1,Motozintla de Mendoza
+7,57,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,58,0,Nicolás Ruíz
+7,58,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,59,0,Ocosingo
+7,59,1,Ocosingo
+7,59,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,60,0,Ocotepec
+7,60,1,Ocotepec
+7,60,5,San Pablo Huacano
+7,60,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,61,0,Ocozocoautla de Espinosa
+7,61,1,Ocozocoautla de Espinosa
+7,61,525,Salvador Urbina
+7,61,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,62,0,Ostuacán
+7,62,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,63,0,Osumacinta
+7,63,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,64,0,Oxchuc
+7,64,1,Oxchuc
+7,64,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,65,0,Palenque
+7,65,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,66,0,Pantelhó
+7,66,1,Pantelhó
+7,66,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,67,0,Pantepec
+7,67,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,68,0,Pichucalco
+7,68,1,Pichucalco
+7,69,0,Pijijiapan
+7,69,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,70,0,El Porvenir
+7,70,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,71,0,Villa Comaltitlán
+7,71,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,72,0,Pueblo Nuevo Solistahuacán
+7,72,1,Pueblo Nuevo Solistahuacán
+7,72,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,73,0,Rayón
+7,73,1,Rayón
+7,74,0,Reforma
+7,74,1,Reforma
+7,74,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,75,0,Las Rosas
+7,75,1,Las Rosas
+7,76,0,Sabanilla
+7,76,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,77,0,Salto de Agua
+7,77,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,78,0,San Cristóbal de las Casas
+7,78,1,San Cristóbal de las Casas
+7,78,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,79,0,San Fernando
+7,79,1,San Fernando
+7,79,12,El Copalar
+7,79,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,80,0,Siltepec
+7,80,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,81,0,Simojovel
+7,81,1,Simojovel de Allende
+7,81,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,83,0,Socoltenango
+7,83,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,84,0,Solosuchiapa
+7,84,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,85,0,Soyaló
+7,85,1,Soyaló
+7,86,0,Suchiapa
+7,86,1,Suchiapa
+7,86,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,87,0,Suchiate
+7,87,1,Ciudad Hidalgo
+7,87,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,89,0,Tapachula
+7,89,1,Tapachula de Córdova y Ordóñez
+7,89,148,Puerto Madero (San Benito)
+7,89,1049,Santa Teresa
+7,89,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,90,0,Tapalapa
+7,90,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,91,0,Tapilula
+7,91,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,92,0,Tecpatán
+7,92,1,Tecpatán
+7,92,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,93,0,Tenejapa
+7,93,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,94,0,Teopisca
+7,94,1,Teopisca
+7,94,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,96,0,Tila
+7,96,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,97,0,Tonalá
+7,97,1,Tonalá
+7,97,40,Paredón
+7,97,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,98,0,Totolapa
+7,98,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,99,0,La Trinitaria
+7,99,1,La Trinitaria
+7,99,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,100,0,Tumbalá
+7,100,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,101,0,Tuxtla Gutiérrez
+7,101,1,Tuxtla Gutiérrez
+7,101,37,Copoya
+7,101,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,102,0,Tuxtla Chico
+7,102,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,103,0,Tuzantán
+7,103,1,Tuzantán
+7,103,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,104,0,Tzimol
+7,104,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,105,0,Unión Juárez
+7,105,1,Unión Juárez
+7,105,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,106,0,Venustiano Carranza
+7,106,1,Venustiano Carranza
+7,106,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,107,0,Villa Corzo
+7,107,1,Villa Corzo
+7,107,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,108,0,Villaflores
+7,108,1,Villaflores
+7,108,176,Nuevo México
+7,108,1171,Bellavista
+7,108,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,109,0,Yajalón
+7,109,1,Yajalón
+7,109,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,111,0,Zinacantán
+7,111,1,Zinacantán
+7,111,9,Nachig
+7,111,11,Pasté
+7,111,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,112,0,San Juan Cancuc
+7,112,1,San Juan Cancuc
+7,112,18,El Pozo
+7,112,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,113,0,Aldama
+7,113,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,114,0,Benemérito de las Américas
+7,114,1,Benemérito de las Américas
+7,115,0,Maravilla Tenejapa
+7,115,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,116,0,Marqués de Comillas
+7,116,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,117,0,Montecristo de Guerrero
+7,117,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,118,0,San Andrés Duraznal
+7,118,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,119,0,Santiago el Pinar
+7,119,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,121,0,Rincón Chamula San Pedro
+7,121,1,Rincón Chamula
+7,121,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,124,0,Mezcalapa
+7,124,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+7,125,0,Honduras de la Sierra
+7,125,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,0,0,Chihuahua
+8,1,0,Ahumada
+8,1,1,Miguel Ahumada
+8,2,0,Aldama
+8,2,1,Juan Aldama
+8,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,2,9999,Localidad no especificada
+8,3,0,Allende
+8,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,4,0,Aquiles Serdán
+8,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,7,0,Balleza
+8,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,8,0,Batopilas de Manuel Gómez Morín
+8,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,9,0,Bocoyna
+8,9,169,San Juanito
+8,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,10,0,Buenaventura
+8,10,1,San Buenaventura
+8,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,11,0,Camargo
+8,11,1,Santa Rosalía de Camargo
+8,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,13,0,Casas Grandes
+8,13,1,Casas Grandes
+8,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,17,0,Cuauhtémoc
+8,17,1,Cuauhtémoc
+8,17,517,Granjas Familiares Ejido Cuauhtémoc
+8,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,18,0,Cusihuiriachi
+8,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,19,0,Chihuahua
+8,19,1,Chihuahua
+8,19,9999,Localidad no especificada
+8,20,0,Chínipas
+8,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,21,0,Delicias
+8,21,1,Delicias
+8,23,0,Galeana
+8,23,37,Abdenago C. García (Lagunitas)
+8,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,25,0,Gómez Farías
+8,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,27,0,Guachochi
+8,27,1,Guachochi
+8,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,28,0,Guadalupe
+8,28,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,29,0,Guadalupe y Calvo
+8,29,1,Guadalupe y Calvo
+8,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,30,0,Guazapares
+8,30,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,31,0,Guerrero
+8,31,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,32,0,Hidalgo del Parral
+8,32,1,Hidalgo del Parral
+8,34,0,Ignacio Zaragoza
+8,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,35,0,Janos
+8,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,36,0,Jiménez
+8,36,1,José Mariano Jiménez
+8,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,36,9999,Localidad no especificada
+8,37,0,Juárez
+8,37,1,Juárez
+8,37,9999,Localidad no especificada
+8,39,0,López
+8,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,40,0,Madera
+8,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,44,0,Matamoros
+8,44,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,45,0,Meoqui
+8,45,1,Pedro Meoqui
+8,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,46,0,Morelos
+8,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,48,0,Namiquipa
+8,48,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,49,0,Nonoava
+8,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,50,0,Nuevo Casas Grandes
+8,50,1,Nuevo Casas Grandes
+8,51,0,Ocampo
+8,51,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,52,0,Ojinaga
+8,52,1,Manuel Ojinaga
+8,54,0,Riva Palacio
+8,54,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,55,0,Rosales
+8,55,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,59,0,San Francisco del Oro
+8,59,1,San Francisco del Oro
+8,60,0,Santa Bárbara
+8,60,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,61,0,Satevó
+8,61,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,62,0,Saucillo
+8,62,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,63,0,Temósachic
+8,63,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,65,0,Urique
+8,65,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,65,9999,Localidad no especificada
+8,66,0,Uruachi
+8,66,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+8,999,0,Municipio no especificado
+8,999,9999,Localidad no especificada
+9,0,0,Ciudad de México
+9,2,0,Azcapotzalco
+9,2,1,Azcapotzalco
+9,2,9999,Localidad no especificada
+9,3,0,Coyoacán
+9,3,1,Coyoacán
+9,4,0,Cuajimalpa de Morelos
+9,4,1,Cuajimalpa de Morelos
+9,4,9999,Localidad no especificada
+9,5,0,Gustavo A. Madero
+9,5,1,Gustavo A. Madero
+9,6,0,Iztacalco
+9,6,1,Iztacalco
+9,6,9999,Localidad no especificada
+9,7,0,Iztapalapa
+9,7,1,Iztapalapa
+9,7,9999,Localidad no especificada
+9,8,0,La Magdalena Contreras
+9,8,1,La Magdalena Contreras
+9,8,9999,Localidad no especificada
+9,9,0,Milpa Alta
+9,9,1,Villa Milpa Alta
+9,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+9,10,0,Álvaro Obregón
+9,10,1,Álvaro Obregón
+9,10,9999,Localidad no especificada
+9,11,0,Tláhuac
+9,11,1,Tláhuac
+9,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+9,11,9999,Localidad no especificada
+9,12,0,Tlalpan
+9,12,1,Tlalpan
+9,12,9999,Localidad no especificada
+9,13,0,Xochimilco
+9,13,1,Xochimilco
+9,14,0,Benito Juárez
+9,14,1,Benito Juárez
+9,15,0,Cuauhtémoc
+9,15,1,Cuauhtémoc
+9,15,9999,Localidad no especificada
+9,16,0,Miguel Hidalgo
+9,16,1,Miguel Hidalgo
+9,17,0,Venustiano Carranza
+9,17,1,Venustiano Carranza
+9,17,9999,Localidad no especificada
+10,0,0,Durango
+10,1,0,Canatlán
+10,1,1,Canatlán
+10,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,3,0,Coneto de Comonfort
+10,3,1,Coneto de Comonfort
+10,4,0,Cuencamé
+10,4,1,Cuencamé de Ceniceros
+10,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,5,0,Durango
+10,5,1,Victoria de Durango
+10,5,787,Los Duraznos [Rancho]
+10,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,5,9999,Localidad no especificada
+10,6,0,General Simón Bolívar
+10,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,7,0,Gómez Palacio
+10,7,1,Gómez Palacio
+10,7,642,Bugambilia (María Cristina) [Granja]
+10,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,7,9999,Localidad no especificada
+10,8,0,Guadalupe Victoria
+10,8,1,Guadalupe Victoria
+10,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,9,0,Guanaceví
+10,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,11,0,Indé
+10,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,12,0,Lerdo
+10,12,1,Lerdo
+10,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,12,9999,Localidad no especificada
+10,13,0,Mapimí
+10,13,1,Mapimí
+10,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,14,0,Mezquital
+10,14,1,San Francisco del Mezquital
+10,14,1031,Mezquite Gacho
+10,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,14,9999,Localidad no especificada
+10,16,0,Nombre de Dios
+10,16,1,Nombre de Dios
+10,17,0,Ocampo
+10,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,18,0,El Oro
+10,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,20,0,Pánuco de Coronado
+10,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,21,0,Peñón Blanco
+10,21,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,22,0,Poanas
+10,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,23,0,Pueblo Nuevo
+10,23,1,El Salto
+10,23,58,Los Naranjos
+10,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,23,9999,Localidad no especificada
+10,24,0,Rodeo
+10,24,1,Rodeo
+10,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,26,0,San Dimas
+10,26,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,27,0,San Juan de Guadalupe
+10,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,28,0,San Juan del Río
+10,28,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,32,0,Santiago Papasquiaro
+10,32,1,Santiago Papasquiaro
+10,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,34,0,Tamazula
+10,34,1,Tamazula de Victoria
+10,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,35,0,Tepehuanes
+10,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,36,0,Tlahualilo
+10,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,37,0,Topia
+10,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+10,38,0,Vicente Guerrero
+10,38,1,Vicente Guerrero
+10,39,0,Nuevo Ideal
+10,39,1,Nuevo Ideal
+10,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,0,0,Guanajuato
+11,1,0,Abasolo
+11,1,1,Abasolo
+11,1,350,Ejido San Telmo (Los Pérez)
+11,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,2,0,Acámbaro
+11,2,1,Acámbaro
+11,2,47,Parácuaro
+11,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,3,0,San Miguel de Allende
+11,3,1,San Miguel de Allende
+11,3,263,San Damián
+11,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,4,0,Apaseo el Alto
+11,4,1,Apaseo el Alto
+11,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,5,0,Apaseo el Grande
+11,5,1,Apaseo el Grande
+11,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,7,0,Celaya
+11,7,1,Celaya
+11,7,98,Estrada
+11,7,143,Rincón de Tamayo
+11,7,161,San Juan de la Vega
+11,7,165,San Miguel Octopan
+11,7,548,Granja el Becerrito
+11,7,660,Los Albañiles (Ejido Santa María del Refugio)
+11,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,7,9999,Localidad no especificada
+11,8,0,Manuel Doblado
+11,8,1,Ciudad Manuel Doblado
+11,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,9,0,Comonfort
+11,9,1,Comonfort
+11,9,10,Empalme Escobedo
+11,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,10,0,Coroneo
+11,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,11,0,Cortazar
+11,11,1,Cortazar
+11,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,12,0,Cuerámaro
+11,12,1,Cuerámaro
+11,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,13,0,Doctor Mora
+11,13,1,Doctor Mora
+11,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,14,0,Dolores Hidalgo Cuna de la Independencia Nacional
+11,14,1,Dolores Hidalgo Cuna de la Independencia Nacional
+11,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,15,0,Guanajuato
+11,15,1,Guanajuato
+11,15,34,Capulín de Bustos
+11,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,16,0,Huanímaro
+11,16,1,Huanímaro
+11,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,17,0,Irapuato
+11,17,1,Irapuato
+11,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,17,9999,Localidad no especificada
+11,18,0,Jaral del Progreso
+11,18,1,Jaral del Progreso
+11,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,19,0,Jerécuaro
+11,19,1,Jerécuaro
+11,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,20,0,León
+11,20,1,León de los Aldama
+11,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,20,9999,Localidad no especificada
+11,21,0,Moroleón
+11,21,1,Moroleón
+11,22,0,Ocampo
+11,22,1,Ocampo
+11,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,23,0,Pénjamo
+11,23,1,Pénjamo
+11,23,14,Aratzipu
+11,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,24,0,Pueblo Nuevo
+11,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,25,0,Purísima del Rincón
+11,25,1,Purísima de Bustos
+11,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,26,0,Romita
+11,26,1,Romita
+11,26,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,27,0,Salamanca
+11,27,1,Salamanca
+11,27,34,Barrón
+11,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,28,0,Salvatierra
+11,28,1,Salvatierra
+11,28,27,Janicho
+11,28,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,29,0,San Diego de la Unión
+11,29,1,San Diego de la Unión
+11,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,29,9999,Localidad no especificada
+11,30,0,San Felipe
+11,30,1,San Felipe
+11,30,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,31,0,San Francisco del Rincón
+11,31,1,San Francisco del Rincón
+11,31,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,32,0,San José Iturbide
+11,32,1,San José Iturbide
+11,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,33,0,San Luis de la Paz
+11,33,1,San Luis de la Paz
+11,33,110,Misión de Chichimecas
+11,33,136,San Rafael de la Curva
+11,33,426,Crucero San Luis de la Paz
+11,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,34,0,Santa Catarina
+11,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,35,0,Santa Cruz de Juventino Rosas
+11,35,1,Juventino Rosas
+11,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,36,0,Santiago Maravatío
+11,36,1,Santiago Maravatío
+11,37,0,Silao de la Victoria
+11,37,1,Silao de la Victoria
+11,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,37,9999,Localidad no especificada
+11,38,0,Tarandacuao
+11,38,1,Tarandacuao
+11,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,39,0,Tarimoro
+11,39,1,Tarimoro
+11,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,40,0,Tierra Blanca
+11,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,41,0,Uriangato
+11,41,1,Uriangato
+11,41,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,42,0,Valle de Santiago
+11,42,1,Valle de Santiago
+11,42,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,43,0,Victoria
+11,43,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,44,0,Villagrán
+11,44,1,Villagrán
+11,44,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,45,0,Xichú
+11,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+11,46,0,Yuriria
+11,46,1,Yuriria
+11,46,9,La Calera
+11,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,0,0,Guerrero
+12,1,0,Acapulco de Juárez
+12,1,1,Acapulco de Juárez
+12,1,129,Los Ërganos de San Agustín (El Quemado)
+12,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,2,0,Ahuacuotzingo
+12,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,3,0,Ajuchitlán del Progreso
+12,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,4,0,Alcozauca de Guerrero
+12,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,5,0,Alpoyeca
+12,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,7,0,Arcelia
+12,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,9,0,Atlamajalcingo del Monte
+12,9,1,Atlamajalcingo del Monte
+12,10,0,Atlixtac
+12,10,1,Atlixtac
+12,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,11,0,Atoyac de Álvarez
+12,11,1,Atoyac de Álvarez
+12,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,12,0,Ayutla de los Libres
+12,12,1,Ayutla de los Libres
+12,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,13,0,Azoyú
+12,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,16,0,Coahuayutla de José María Izazaga
+12,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,19,0,Copalillo
+12,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,20,0,Copanatoyac
+12,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,21,0,Coyuca de Benítez
+12,21,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,22,0,Coyuca de Catalán
+12,22,1,Coyuca de Catalán
+12,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,23,0,Cuajinicuilapa
+12,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,24,0,Cualác
+12,24,1,Cualác
+12,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,25,0,Cuautepec
+12,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,28,0,Chilapa de Álvarez
+12,28,1,Chilapa de Álvarez
+12,28,22,Ayahualulco
+12,28,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,29,0,Chilpancingo de los Bravo
+12,29,1,Chilpancingo de los Bravo
+12,29,47,Petaquillas
+12,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,29,9999,Localidad no especificada
+12,30,0,Florencio Villarreal
+12,30,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,32,0,General Heliodoro Castillo
+12,32,1,Tlacotepec
+12,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,33,0,Huamuxtitlán
+12,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,34,0,Huitzuco de los Figueroa
+12,34,1,Ciudad de Huitzuco
+12,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,35,0,Iguala de la Independencia
+12,35,1,Iguala de la Independencia
+12,36,0,Igualapa
+12,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,38,0,Zihuatanejo de Azueta
+12,38,1,Zihuatanejo
+12,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,39,0,Juan R. Escudero
+12,39,1,Tierra Colorada
+12,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,40,0,Leonardo Bravo
+12,40,1,Chichihualco
+12,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,41,0,Malinaltepec
+12,41,1,Malinaltepec
+12,41,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,42,0,Mártir de Cuilapan
+12,42,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,43,0,Metlatónoc
+12,43,1,Metlatónoc
+12,43,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,45,0,Olinalá
+12,45,1,Olinalá
+12,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,46,0,Ometepec
+12,46,1,Ometepec
+12,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,47,0,Pedro Ascencio Alquisiras
+12,47,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,49,0,Pilcaya
+12,49,1,Pilcaya
+12,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,50,0,Pungarabato
+12,50,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,51,0,Quechultenango
+12,51,1,Quechultenango
+12,51,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,52,0,San Luis Acatlán
+12,52,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,53,0,San Marcos
+12,53,1,San Marcos
+12,53,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,54,0,San Miguel Totolapan
+12,54,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,55,0,Taxco de Alarcón
+12,55,1,Taxco de Alarcón
+12,55,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,56,0,Tecoanapa
+12,56,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,57,0,Técpan de Galeana
+12,57,1,Técpan de Galeana
+12,57,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,58,0,Teloloapan
+12,58,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,60,0,Tetipac
+12,60,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,61,0,Tixtla de Guerrero
+12,61,1,Tixtla de Guerrero
+12,61,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,62,0,Tlacoachistlahuaca
+12,62,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,63,0,Tlacoapa
+12,63,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,65,0,Tlalixtaquilla de Maldonado
+12,65,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,66,0,Tlapa de Comonfort
+12,66,1,Tlapa de Comonfort
+12,66,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,67,0,Tlapehuala
+12,67,1,Tlapehuala
+12,69,0,Xalpatláhuac
+12,69,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,70,0,Xochihuehuetlán
+12,70,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,71,0,Xochistlahuaca
+12,71,1,Xochistlahuaca
+12,71,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,73,0,Zirándaro
+12,73,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,74,0,Zitlala
+12,74,1,Zitlala
+12,74,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,75,0,Eduardo Neri
+12,75,1,Zumpango del Río
+12,75,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,75,9999,Localidad no especificada
+12,76,0,Acatepec
+12,76,1,Acatepec
+12,76,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,78,0,Cochoapa el Grande
+12,78,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,79,0,José Joaquín de Herrera
+12,79,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+12,81,0,Iliatenco
+12,81,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,0,0,Hidalgo
+13,1,0,Acatlán
+13,1,1,Acatlán
+13,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,2,0,Acaxochitlán
+13,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,3,0,Actopan
+13,3,1,Actopan
+13,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,4,0,Agua Blanca de Iturbide
+13,4,20,San Cornelio
+13,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,5,0,Ajacuba
+13,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,6,0,Alfajayucan
+13,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,7,0,Almoloya
+13,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,8,0,Apan
+13,8,1,Apan
+13,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,9,0,El Arenal
+13,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,10,0,Atitalaquia
+13,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,11,0,Atlapexco
+13,11,1,Atlapexco
+13,12,0,Atotonilco el Grande
+13,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,13,0,Atotonilco de Tula
+13,13,1,Atotonilco de Tula
+13,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,14,0,Calnali
+13,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,15,0,Cardonal
+13,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,16,0,Cuautepec de Hinojosa
+13,16,1,Cuautepec
+13,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,18,0,Chapulhuacán
+13,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,19,0,Chilcuautla
+13,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,21,0,Emiliano Zapata
+13,21,1,Emiliano Zapata
+13,22,0,Epazoyucan
+13,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,23,0,Francisco I. Madero
+13,23,10,La Puerta
+13,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,24,0,Huasca de Ocampo
+13,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,25,0,Huautla
+13,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,26,0,Huazalingo
+13,26,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,27,0,Huehuetla
+13,27,1,Huehuetla
+13,27,77,La Cruz
+13,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,28,0,Huejutla de Reyes
+13,28,1,Huejutla de Reyes
+13,28,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,29,0,Huichapan
+13,29,1,Huichapan
+13,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,30,0,Ixmiquilpan
+13,30,1,Ixmiquilpan
+13,30,47,Taxadho
+13,30,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,32,0,Jaltocán
+13,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,33,0,Juárez Hidalgo
+13,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,34,0,Lolotla
+13,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,35,0,Metepec
+13,35,1,Metepec
+13,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,35,9999,Localidad no especificada
+13,37,0,Metztitlán
+13,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,38,0,Mineral del Chico
+13,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,39,0,Mineral del Monte
+13,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,41,0,Mixquiahuala de Juárez
+13,41,1,Mixquiahuala de Juárez
+13,41,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,42,0,Molango de Escamilla
+13,42,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,43,0,Nicolás Flores
+13,43,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,45,0,Omitlán de Juárez
+13,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,46,0,San Felipe Orizatlán
+13,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,48,0,Pachuca de Soto
+13,48,1,Pachuca de Soto
+13,48,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,48,9999,Localidad no especificada
+13,49,0,Pisaflores
+13,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,50,0,Progreso de Obregón
+13,50,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,51,0,Mineral de la Reforma
+13,51,12,San Guillermo la Reforma
+13,51,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,52,0,San Agustín Tlaxiaca
+13,52,1,San Agustín Tlaxiaca
+13,53,0,San Bartolo Tutotepec
+13,53,1,San Bartolo Tutotepec
+13,53,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,54,0,San Salvador
+13,54,1,San Salvador
+13,54,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,55,0,Santiago de Anaya
+13,55,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,56,0,Santiago Tulantepec de Lugo Guerrero
+13,56,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,56,9999,Localidad no especificada
+13,57,0,Singuilucan
+13,57,1,Singuilucan
+13,57,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,58,0,Tasquillo
+13,58,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,59,0,Tecozautla
+13,59,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,60,0,Tenango de Doria
+13,60,1,Tenango de Doria
+13,60,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,61,0,Tepeapulco
+13,61,1,Tepeapulco
+13,61,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,62,0,Tepehuacán de Guerrero
+13,62,1,Tepehuacán de Guerrero
+13,62,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,63,0,Tepeji del Río de Ocampo
+13,63,1,Tepeji del Río de Ocampo
+13,63,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,64,0,Tepetitlán
+13,64,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,66,0,Villa de Tezontepec
+13,66,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,67,0,Tezontepec de Aldama
+13,67,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,68,0,Tianguistengo
+13,68,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,69,0,Tizayuca
+13,69,1,Tizayuca
+13,69,55,Los Héroes Tizayuca
+13,69,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,71,0,Tlahuiltepa
+13,71,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,72,0,Tlanalapa
+13,72,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,73,0,Tlanchinol
+13,73,1,Tlanchinol
+13,73,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,74,0,Tlaxcoapan
+13,74,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,75,0,Tolcayuca
+13,75,1,Tolcayuca
+13,75,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,76,0,Tula de Allende
+13,76,1,Tula de Allende
+13,76,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,77,0,Tulancingo de Bravo
+13,77,1,Tulancingo
+13,77,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,78,0,Xochiatipan
+13,78,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,81,0,Zacualtipán de Ángeles
+13,81,1,Zacualtipán
+13,81,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,82,0,Zapotlán de Juárez
+13,82,1,Zapotlán de Juárez
+13,82,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,83,0,Zempoala
+13,83,1,Zempoala
+13,83,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+13,84,0,Zimapán
+13,84,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,0,0,Jalisco
+14,1,0,Acatic
+14,1,1,Acatic
+14,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,1,9999,Localidad no especificada
+14,2,0,Acatlán de Juárez
+14,2,1,Acatlán de Juárez
+14,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,3,0,Ahualulco de Mercado
+14,3,1,Ahualulco de Mercado
+14,3,9999,Localidad no especificada
+14,4,0,Amacueca
+14,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,5,0,Amatitán
+14,5,1,Amatitán
+14,6,0,Ameca
+14,6,1,Ameca
+14,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,6,9999,Localidad no especificada
+14,7,0,San Juanito de Escobedo
+14,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,8,0,Arandas
+14,8,1,Arandas
+14,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,8,9999,Localidad no especificada
+14,9,0,El Arenal
+14,9,1,El Arenal
+14,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,9,9999,Localidad no especificada
+14,10,0,Atemajac de Brizuela
+14,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,11,0,Atengo
+14,13,0,Atotonilco el Alto
+14,13,1,Atotonilco el Alto
+14,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,13,9999,Localidad no especificada
+14,15,0,Autlán de Navarro
+14,15,1,Autlán de Navarro
+14,15,9999,Localidad no especificada
+14,16,0,Ayotlán
+14,16,1,Ayotlán
+14,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,16,9999,Localidad no especificada
+14,17,0,Ayutla
+14,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,17,9999,Localidad no especificada
+14,18,0,La Barca
+14,18,1,La Barca
+14,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,18,9999,Localidad no especificada
+14,19,0,Bolaños
+14,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,20,0,Cabo Corrientes
+14,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,21,0,Casimiro Castillo
+14,21,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,22,0,Cihuatlán
+14,22,1,Cihuatlán
+14,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,23,0,Zapotlán el Grande
+14,23,1,Ciudad Guzmán
+14,23,9999,Localidad no especificada
+14,24,0,Cocula
+14,24,1,Cocula
+14,24,9999,Localidad no especificada
+14,25,0,Colotlán
+14,25,1,Colotlán
+14,25,9999,Localidad no especificada
+14,26,0,Concepción de Buenos Aires
+14,26,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,27,0,Cuautitlán de García Barragán
+14,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,29,0,Cuquío
+14,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,30,0,Chapala
+14,30,1,Chapala
+14,30,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,30,9999,Localidad no especificada
+14,33,0,Degollado
+14,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,33,9999,Localidad no especificada
+14,35,0,Encarnación de Díaz
+14,35,1,Encarnación de Díaz
+14,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,36,0,Etzatlán
+14,36,9999,Localidad no especificada
+14,37,0,El Grullo
+14,37,1,El Grullo
+14,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,39,0,Guadalajara
+14,39,1,Guadalajara
+14,39,9999,Localidad no especificada
+14,40,0,Hostotipaquillo
+14,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,43,0,La Huerta
+14,43,1,La Huerta
+14,43,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,44,0,Ixtlahuacán de los Membrillos
+14,44,1,Ixtlahuacán de los Membrillos
+14,44,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,44,9999,Localidad no especificada
+14,45,0,Ixtlahuacán del Río
+14,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,46,0,Jalostotitlán
+14,46,1,Jalostotitlán
+14,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,46,9999,Localidad no especificada
+14,47,0,Jamay
+14,47,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,48,0,Jesús María
+14,48,1,Jesús María
+14,48,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,50,0,Jocotepec
+14,50,1,Jocotepec
+14,50,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,50,9999,Localidad no especificada
+14,51,0,Juanacatlán
+14,51,1,Juanacatlán
+14,51,9999,Localidad no especificada
+14,52,0,Juchitlán
+14,52,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,53,0,Lagos de Moreno
+14,53,1,Lagos de Moreno
+14,53,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,53,9999,Localidad no especificada
+14,55,0,Magdalena
+14,55,1,Magdalena
+14,56,0,Santa María del Oro
+14,56,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,58,0,Mascota
+14,58,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,58,9999,Localidad no especificada
+14,59,0,Mazamitla
+14,59,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,60,0,Mexticacán
+14,60,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,61,0,Mezquitic
+14,61,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,61,9999,Localidad no especificada
+14,63,0,Ocotlán
+14,63,1,Ocotlán
+14,63,9999,Localidad no especificada
+14,64,0,Ojuelos de Jalisco
+14,64,1,Ojuelos de Jalisco
+14,64,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,65,0,Pihuamo
+14,65,1,Pihuamo
+14,66,0,Poncitlán
+14,66,1,Poncitlán
+14,66,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,66,9999,Localidad no especificada
+14,67,0,Puerto Vallarta
+14,67,1,Puerto Vallarta
+14,67,28,Ixtapa
+14,67,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,67,9999,Localidad no especificada
+14,68,0,Villa Purificación
+14,68,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,70,0,El Salto
+14,70,1,El Salto
+14,70,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,70,9999,Localidad no especificada
+14,72,0,San Diego de Alejandría
+14,72,1,San Diego de Alejandría
+14,72,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,73,0,San Juan de los Lagos
+14,73,1,San Juan de los Lagos
+14,73,9999,Localidad no especificada
+14,74,0,San Julián
+14,74,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,74,9999,Localidad no especificada
+14,75,0,San Marcos
+14,75,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,77,0,San Martín Hidalgo
+14,77,1,San Martín Hidalgo
+14,77,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,78,0,San Miguel el Alto
+14,78,1,San Miguel el Alto
+14,78,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,78,9999,Localidad no especificada
+14,79,0,Gómez Farías
+14,79,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,80,0,San Sebastián del Oeste
+14,80,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,81,0,Santa María de los Ángeles
+14,81,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,82,0,Sayula
+14,82,1,Sayula
+14,82,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,82,9999,Localidad no especificada
+14,83,0,Tala
+14,83,1,Tala
+14,83,205,Puerta de Chinta
+14,83,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,83,9999,Localidad no especificada
+14,84,0,Talpa de Allende
+14,84,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,85,0,Tamazula de Gordiano
+14,85,1,Tamazula de Gordiano
+14,85,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,86,0,Tapalpa
+14,86,1,Tapalpa
+14,86,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,87,0,Tecalitlán
+14,88,0,Tecolotlán
+14,88,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,89,0,Techaluta de Montenegro
+14,89,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,89,9999,Localidad no especificada
+14,91,0,Teocaltiche
+14,91,1,Teocaltiche
+14,91,71,Mechoacanejo
+14,91,9999,Localidad no especificada
+14,92,0,Teocuitatlán de Corona
+14,92,1,Teocuitatlán de Corona
+14,92,9999,Localidad no especificada
+14,93,0,Tepatitlán de Morelos
+14,93,1,Tepatitlán de Morelos
+14,93,58,Capilla de Guadalupe
+14,93,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,93,9999,Localidad no especificada
+14,94,0,Tequila
+14,94,1,Tequila
+14,94,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,94,9999,Localidad no especificada
+14,95,0,Teuchitlán
+14,95,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,96,0,Tizapán el Alto
+14,96,1,Tizapán el Alto
+14,97,0,Tlajomulco de Zúñiga
+14,97,1,Tlajomulco de Zúñiga
+14,97,538,Tlajomulco [Granja]
+14,97,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,97,9999,Localidad no especificada
+14,98,0,San Pedro Tlaquepaque
+14,98,1,Tlaquepaque
+14,98,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,98,9999,Localidad no especificada
+14,100,0,Tomatlán
+14,100,1,Tomatlán
+14,100,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,100,9999,Localidad no especificada
+14,101,0,Tonalá
+14,101,1,Tonalá
+14,101,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,101,9999,Localidad no especificada
+14,102,0,Tonaya
+14,102,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,103,0,Tonila
+14,103,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,104,0,Totatiche
+14,104,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,105,0,Tototlán
+14,105,1,Tototlán
+14,105,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,106,0,Tuxcacuesco
+14,107,0,Tuxcueca
+14,107,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,108,0,Tuxpan
+14,108,1,Tuxpan
+14,108,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,108,9999,Localidad no especificada
+14,109,0,Unión de San Antonio
+14,110,0,Unión de Tula
+14,110,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,110,9999,Localidad no especificada
+14,111,0,Valle de Guadalupe
+14,111,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,112,0,Valle de Juárez
+14,112,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,112,9999,Localidad no especificada
+14,113,0,San Gabriel
+14,113,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,114,0,Villa Corona
+14,114,1,Villa Corona
+14,114,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,115,0,Villa Guerrero
+14,115,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,116,0,Villa Hidalgo
+14,116,1,Villa Hidalgo
+14,116,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,116,9999,Localidad no especificada
+14,118,0,Yahualica de González Gallo
+14,118,1,Yahualica de González Gallo
+14,119,0,Zacoalco de Torres
+14,119,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,120,0,Zapopan
+14,120,1,Zapopan
+14,120,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,120,9999,Localidad no especificada
+14,121,0,Zapotiltic
+14,121,1,Zapotiltic
+14,121,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,122,0,Zapotitlán de Vadillo
+14,122,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,123,0,Zapotlán del Rey
+14,123,9999,Localidad no especificada
+14,124,0,Zapotlanejo
+14,124,1,Zapotlanejo
+14,124,176,Santa Fe
+14,124,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+14,124,9999,Localidad no especificada
+14,125,0,San Ignacio Cerro Gordo
+14,125,1,San Ignacio Cerro Gordo
+14,999,0,Municipio no especificado
+14,999,9999,Localidad no especificada
+15,0,0,México
+15,1,0,Acambay de Ruíz Castañeda
+15,1,1,Villa de Acambay de Ruíz Castañeda
+15,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,2,0,Acolman
+15,2,1,Acolman de Nezahualcóyotl
+15,2,15,Tepexpan
+15,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,2,9999,Localidad no especificada
+15,3,0,Aculco
+15,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,4,0,Almoloya de Alquisiras
+15,4,1,Almoloya de Alquisiras
+15,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,5,0,Almoloya de Juárez
+15,5,1,Villa de Almoloya de Juárez
+15,5,32,San Francisco Tlalcilalcalpan
+15,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,6,0,Almoloya del Río
+15,6,1,Almoloya del Río
+15,7,0,Amanalco
+15,7,1,Amanalco de Becerra
+15,7,12,San Jerónimo
+15,7,14,San Lucas
+15,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,8,0,Amatepec
+15,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,9,0,Amecameca
+15,9,1,Amecameca de Juárez
+15,9,5,San Francisco Zentlalpan
+15,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,10,0,Apaxco
+15,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,11,0,Atenco
+15,11,1,San Salvador Atenco
+15,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,12,0,Atizapán
+15,12,1,Santa Cruz Atizapán
+15,13,0,Atizapán de Zaragoza
+15,13,1,Ciudad López Mateos
+15,13,9999,Localidad no especificada
+15,14,0,Atlacomulco
+15,14,1,Atlacomulco de Fabela
+15,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,15,0,Atlautla
+15,15,1,Atlautla de Victoria
+15,15,2,Las Delicias
+15,15,6,San Juan Tehuixtitlán
+15,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,16,0,Axapusco
+15,16,1,Axapusco
+15,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,18,0,Calimaya
+15,18,1,Calimaya de Díaz González
+15,18,10,Zaragoza de Guadalupe
+15,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,19,0,Capulhuac
+15,19,1,Capulhuac de Mirafuentes
+15,20,0,Coacalco de Berriozábal
+15,20,1,San Francisco Coacalco
+15,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,21,0,Coatepec Harinas
+15,21,1,Coatepec Harinas
+15,21,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,22,0,Cocotitlán
+15,22,1,Cocotitlán
+15,23,0,Coyotepec
+15,23,1,Coyotepec
+15,23,9999,Localidad no especificada
+15,24,0,Cuautitlán
+15,24,1,Cuautitlán
+15,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,25,0,Chalco
+15,25,1,Chalco de Díaz Covarrubias
+15,25,10,San Juan Tezompa
+15,25,14,San Martín Cuautlalpan
+15,25,16,San Mateo Huitzilzingo
+15,25,19,San Pablo Atlazalpan
+15,25,20,Santa Catarina Ayotzingo
+15,25,21,Santa María Huexoculco
+15,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,25,9999,Localidad no especificada
+15,26,0,Chapa de Mota
+15,26,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,27,0,Chapultepec
+15,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,28,0,Chiautla
+15,28,1,Chiautla
+15,29,0,Chicoloapan
+15,29,1,Chicoloapan de Juárez
+15,29,9999,Localidad no especificada
+15,30,0,Chiconcuac
+15,30,1,Chiconcuac de Juárez
+15,31,0,Chimalhuacán
+15,31,1,Chimalhuacán
+15,31,57,Xochiaca Parte Alta
+15,31,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,31,9999,Localidad no especificada
+15,32,0,Donato Guerra
+15,32,1,Villa Donato Guerra
+15,32,12,San Juan Xoconusco
+15,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,33,0,Ecatepec de Morelos
+15,33,1,Ecatepec de Morelos
+15,33,206,Tierra Blanca Segunda Sección (Ejido Ecatepec)
+15,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,33,9999,Localidad no especificada
+15,34,0,Ecatzingo
+15,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,35,0,Huehuetoca
+15,35,1,Huehuetoca
+15,35,8,Salitrillo
+15,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,36,0,Hueypoxtla
+15,36,1,Hueypoxtla
+15,36,9,Santa María Ajoloapan
+15,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,37,0,Huixquilucan
+15,37,1,Huixquilucan de Degollado
+15,37,25,Santiago Yancuitlalpan
+15,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,38,0,Isidro Fabela
+15,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,39,0,Ixtapaluca
+15,39,1,Ixtapaluca
+15,39,3,San Buenaventura
+15,39,4,Coatepec
+15,39,12,San Francisco Acuautla
+15,39,17,Zoquiapan
+15,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,39,9999,Localidad no especificada
+15,40,0,Ixtapan de la Sal
+15,40,1,Ixtapan de la Sal
+15,40,13,El Salitre
+15,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,41,0,Ixtapan del Oro
+15,41,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,42,0,Ixtlahuaca
+15,42,1,Ixtlahuaca de Rayón
+15,42,16,San Bartolo del Llano
+15,42,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,43,0,Xalatlaco
+15,43,1,Xalatlaco
+15,43,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,44,0,Jaltenco
+15,44,1,Jaltenco
+15,45,0,Jilotepec
+15,45,1,Jilotepec de Molina Enríquez
+15,45,7,Canalejas
+15,45,11,Dedeni Dolores
+15,45,32,Xhixhata
+15,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,46,0,Jilotzingo
+15,46,1,Santa Ana Jilotzingo
+15,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,47,0,Jiquipilco
+15,47,1,Jiquipilco
+15,47,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,48,0,Jocotitlán
+15,48,1,Ciudad de Jocotitlán
+15,48,12,San Juan Coajomulco
+15,48,15,Santa María Citendeje
+15,48,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,49,0,Joquicingo
+15,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,50,0,Juchitepec
+15,50,1,Juchitepec de Mariano Rivapalacio
+15,50,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,51,0,Lerma
+15,51,1,Lerma de Villada
+15,51,21,San Miguel Ameyalco
+15,51,26,Santa María Atarasquillo
+15,51,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,52,0,Malinalco
+15,52,1,Malinalco
+15,52,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,53,0,Melchor Ocampo
+15,53,1,Melchor Ocampo
+15,53,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,54,0,Metepec
+15,54,1,Metepec
+15,54,47,San Miguel Totocuitlapilco
+15,54,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,54,9999,Localidad no especificada
+15,55,0,Mexicaltzingo
+15,55,1,San Mateo Mexicaltzingo
+15,55,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,56,0,Morelos
+15,56,1,San Bartolo Morelos
+15,56,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,56,9999,Localidad no especificada
+15,57,0,Naucalpan de Juárez
+15,57,1,Naucalpan de Juárez
+15,57,264,Rincón Verde
+15,57,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,57,9999,Localidad no especificada
+15,58,0,Nezahualcóyotl
+15,58,1,Ciudad Nezahualcóyotl
+15,58,3,Ciudad Jardín
+15,58,9999,Localidad no especificada
+15,59,0,Nextlalpan
+15,59,1,Santa Ana Nextlalpan
+15,59,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,60,0,Nicolás Romero
+15,60,1,Ciudad Nicolás Romero
+15,60,99,Bosques de San Nicolás
+15,60,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,61,0,Nopaltepec
+15,61,1,Nopaltepec
+15,62,0,Ocoyoacac
+15,62,1,Ocoyoacac
+15,62,23,San Pedro Cholula
+15,62,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,63,0,Ocuilan
+15,63,1,Ocuilan de Arteaga
+15,63,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,64,0,El Oro
+15,64,1,El Oro de Hidalgo
+15,64,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,65,0,Otumba
+15,65,1,Otumba de Gómez Farías
+15,65,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,66,0,Otzoloapan
+15,66,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,67,0,Otzolotepec
+15,67,1,Villa Cuauhtémoc
+15,67,13,San Mateo Mozoquilpan
+15,67,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,68,0,Ozumba
+15,68,1,Ozumba de Alzate
+15,69,0,Papalotla
+15,69,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,70,0,La Paz
+15,70,1,Los Reyes Acaquilpan
+15,70,5,La Magdalena Atlicpac
+15,70,38,Lomas de San Sebastián
+15,70,41,San José las Palmas
+15,70,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,70,9999,Localidad no especificada
+15,71,0,Polotitlán
+15,71,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,72,0,Rayón
+15,72,1,Santa María Rayón
+15,72,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,73,0,San Antonio la Isla
+15,73,1,San Antonio la Isla
+15,73,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,74,0,San Felipe del Progreso
+15,74,1,San Felipe del Progreso
+15,74,18,La Concepción Chico (El Centro)
+15,74,55,El Obraje
+15,74,92,San Juan Jalpa Centro
+15,74,104,San Pedro el Alto
+15,74,108,Santa Ana Nichi
+15,74,123,Tres Estrellas
+15,74,125,El Tunal
+15,74,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,75,0,San Martín de las Pirámides
+15,75,1,San Martín de las Pirámides
+15,75,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,76,0,San Mateo Atenco
+15,76,1,San Mateo Atenco
+15,76,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,78,0,Santo Tomás
+15,78,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,79,0,Soyaniquilpan de Juárez
+15,79,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,80,0,Sultepec
+15,80,1,Sultepec de Pedro Ascencio de Alquisiras
+15,80,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,81,0,Tecámac
+15,81,1,Tecámac de Felipe Villanueva
+15,81,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,81,9999,Localidad no especificada
+15,82,0,Tejupilco
+15,82,1,Tejupilco de Hidalgo
+15,82,541,Lomas de Tejupilco
+15,82,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,83,0,Temamatla
+15,83,1,Temamatla
+15,83,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,84,0,Temascalapa
+15,84,1,Temascalapa
+15,84,17,Santa Ana Tlachihualpa
+15,84,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,84,9999,Localidad no especificada
+15,85,0,Temascalcingo
+15,85,1,Temascalcingo de José María Velasco
+15,85,14,La Magdalena
+15,85,24,San Francisco Tepeolulco
+15,85,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,86,0,Temascaltepec
+15,86,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,87,0,Temoaya
+15,87,1,Temoaya
+15,87,24,San José Comalco
+15,87,30,San Pedro Arriba
+15,87,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,87,9999,Localidad no especificada
+15,88,0,Tenancingo
+15,88,1,Tenancingo de Degollado
+15,88,34,La Trinidad
+15,88,73,San José el Cuartel
+15,88,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,89,0,Tenango del Aire
+15,89,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,90,0,Tenango del Valle
+15,90,1,Tenango de Arista
+15,90,36,San Pedro Tlanixco
+15,90,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,91,0,Teoloyucan
+15,91,1,Teoloyucan
+15,91,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,92,0,Teotihuacán
+15,92,1,Teotihuacán de Arista
+15,92,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,93,0,Tepetlaoxtoc
+15,93,1,Tepetlaoxtoc de Hidalgo
+15,93,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,94,0,Tepetlixpa
+15,94,1,Tepetlixpa
+15,95,0,Tepotzotlán
+15,95,1,Tepotzotlán
+15,95,26,Santiago Cuautlalpan
+15,95,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,96,0,Tequixquiac
+15,96,1,Tequixquiac
+15,96,8,Tlapanaloya
+15,97,0,Texcaltitlán
+15,97,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,98,0,Texcalyacac
+15,98,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,99,0,Texcoco
+15,99,1,Texcoco de Mora
+15,99,47,Vicente Riva Palacio
+15,99,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,99,9999,Localidad no especificada
+15,100,0,Tezoyuca
+15,100,1,Tezoyuca
+15,100,2,Tequisistlán
+15,100,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,101,0,Tianguistenco
+15,101,1,Santiago Tianguistenco de Galeana
+15,101,14,San Pedro Tlaltizapan
+15,101,15,Santiago Tilapa
+15,101,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,102,0,Timilpan
+15,102,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,103,0,Tlalmanalco
+15,103,1,Tlalmanalco de Velázquez
+15,103,5,San Rafael
+15,103,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,104,0,Tlalnepantla de Baz
+15,104,1,Tlalnepantla
+15,104,9999,Localidad no especificada
+15,105,0,Tlatlaya
+15,105,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,106,0,Toluca
+15,106,1,Toluca de Lerdo
+15,106,43,Cacalomacán
+15,106,62,San Andrés Cuexcontitlán
+15,106,64,San Buenaventura
+15,106,66,San Cristóbal Huichochitlán
+15,106,73,San Juan Tilapa
+15,106,75,San Lorenzo Tepaltitlán
+15,106,79,San Mateo Otzacatipan
+15,106,83,San Pablo Autopan
+15,106,84,San Pedro Totoltepec
+15,106,86,Santa Ana Tlapaltitlán
+15,106,90,Santa María Totoltepec
+15,106,92,Santiago Miltepec
+15,106,97,Santiago Tlacotepec
+15,106,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,106,9999,Localidad no especificada
+15,107,0,Tonatico
+15,107,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,108,0,Tultepec
+15,108,1,Tultepec
+15,108,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,109,0,Tultitlán
+15,109,1,Tultitlán de Mariano Escobedo
+15,109,25,San Pablo de las Salinas
+15,109,69,Ampliación San Mateo (Colonia Solidaridad)
+15,109,72,Colonia Lázaro Cárdenas (Los Hornos)
+15,109,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,110,0,Valle de Bravo
+15,110,1,Valle de Bravo
+15,110,36,San Antonio
+15,110,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,110,9999,Localidad no especificada
+15,111,0,Villa de Allende
+15,111,1,San José Villa de Allende
+15,111,14,Loma de Juárez
+15,111,26,San Felipe Santiago
+15,111,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,112,0,Villa del Carbón
+15,112,1,Villa del Carbón
+15,112,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,113,0,Villa Guerrero
+15,113,1,Villa Guerrero
+15,113,28,Santiago Oxtotitlán
+15,113,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,114,0,Villa Victoria
+15,114,1,Villa Victoria
+15,114,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,115,0,Xonacatlán
+15,115,1,Xonacatlán
+15,115,6,Santa María Zolotepec
+15,117,0,Zacualpan
+15,117,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,118,0,Zinacantepec
+15,118,1,San Miguel Zinacantepec
+15,118,53,San Antonio Acahualco
+15,118,58,San Juan de las Huertas
+15,118,60,San Luis Mextepec
+15,118,67,Santa María del Monte
+15,118,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,118,9999,Localidad no especificada
+15,119,0,Zumpahuacán
+15,119,1,Zumpahuacán
+15,119,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,120,0,Zumpango
+15,120,1,Zumpango de Ocampo
+15,120,14,Arbolada los Sauces
+15,120,46,San Juan Zitlaltepec
+15,120,56,Santa Lucía
+15,120,175,La Trinidad [Fraccionamiento]
+15,120,206,Villas de Zumpango [Conjunto Urbano]
+15,120,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,121,0,Cuautitlán Izcalli
+15,121,1,Cuautitlán Izcalli
+15,121,120,Ejido Santiago Cuautlalpan
+15,121,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,121,9999,Localidad no especificada
+15,122,0,Valle de Chalco Solidaridad
+15,122,1,Xico
+15,122,5,Santa Cruz
+15,122,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,122,9999,Localidad no especificada
+15,123,0,Luvianos
+15,123,1,Villa Luvianos
+15,123,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,124,0,San José del Rincón
+15,124,1,San José del Rincón Centro
+15,124,41,Ejido la Soledad
+15,124,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,125,0,Tonanitla
+15,125,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+15,999,0,Municipio no especificado
+15,999,9999,Localidad no especificada
+16,0,0,Michoacán de Ocampo
+16,1,0,Acuitzio
+16,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,3,0,Álvaro Obregón
+16,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,4,0,Angamacutiro
+16,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,5,0,Angangueo
+16,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,6,0,Apatzingán
+16,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,8,0,Aquila
+16,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,9,0,Ario
+16,9,1,Ario de Rosales
+16,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,10,0,Arteaga
+16,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,12,0,Buenavista
+16,12,1,Buenavista Tomatlán
+16,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,14,0,Coahuayana
+16,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,15,0,Coalcomán de Vázquez Pallares
+16,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,16,0,Coeneo
+16,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,17,0,Contepec
+16,17,6,Buenavista
+16,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,18,0,Copándaro
+16,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,19,0,Cotija
+16,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,20,0,Cuitzeo
+16,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,21,0,Charapan
+16,21,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,22,0,Charo
+16,22,1,Charo
+16,22,19,La Goleta
+16,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,23,0,Chavinda
+16,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,24,0,Cherán
+16,24,1,Cherán
+16,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,25,0,Chilchota
+16,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,27,0,Chucándiro
+16,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,29,0,Churumuco
+16,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,31,0,Epitacio Huerta
+16,31,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,32,0,Erongarícuaro
+16,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,33,0,Gabriel Zamora
+16,33,1,Lombardía
+16,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,34,0,Hidalgo
+16,34,1,Ciudad Hidalgo
+16,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,35,0,La Huacana
+16,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,36,0,Huandacareo
+16,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,37,0,Huaniqueo
+16,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,38,0,Huetamo
+16,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,39,0,Huiramba
+16,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,40,0,Indaparapeo
+16,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,42,0,Ixtlán
+16,42,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,43,0,Jacona
+16,43,1,Jacona de Plancarte
+16,43,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,45,0,Jiquilpan
+16,45,1,Jiquilpan de Juárez
+16,47,0,Jungapeo
+16,47,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,48,0,Lagunillas
+16,48,1,Lagunillas
+16,48,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,49,0,Madero
+16,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,50,0,Maravatío
+16,50,1,Maravatío de Ocampo
+16,50,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,51,0,Marcos Castellanos
+16,51,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,52,0,Lázaro Cárdenas
+16,52,1,Ciudad Lázaro Cárdenas
+16,52,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,53,0,Morelia
+16,53,1,Morelia
+16,53,32,Atapaneo
+16,53,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,53,9999,Localidad no especificada
+16,54,0,Morelos
+16,54,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,55,0,Múgica
+16,55,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,56,0,Nahuatzen
+16,56,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,58,0,Nuevo Parangaricutiro
+16,58,1,Nuevo San Juan Parangaricutiro
+16,60,0,Numarán
+16,60,1,Numarán
+16,60,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,61,0,Ocampo
+16,61,1,Ocampo
+16,62,0,Pajacuarán
+16,62,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,62,9999,Localidad no especificada
+16,63,0,Panindícuaro
+16,63,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,65,0,Paracho
+16,65,1,Paracho de Verduzco
+16,65,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,66,0,Pátzcuaro
+16,66,1,Pátzcuaro
+16,66,9,Cuanajo
+16,66,18,El Manzanillal (Colonia Enrique Ramírez)
+16,67,0,Penjamillo
+16,67,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,68,0,Peribán
+16,68,1,Peribán de Ramos
+16,68,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,69,0,La Piedad
+16,69,1,La Piedad de Cabadas
+16,69,9999,Localidad no especificada
+16,70,0,Purépero
+16,70,1,Purépero de Echáiz
+16,70,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,71,0,Puruándiro
+16,71,1,Puruándiro
+16,71,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,72,0,Queréndaro
+16,72,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,73,0,Quiroga
+16,73,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,74,0,Cojumatlán de Régules
+16,74,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,75,0,Los Reyes
+16,75,1,Los Reyes de Salgado
+16,75,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,76,0,Sahuayo
+16,76,1,Sahuayo de Morelos
+16,76,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,76,9999,Localidad no especificada
+16,77,0,San Lucas
+16,77,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,78,0,Santa Ana Maya
+16,78,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,79,0,Salvador Escalante
+16,79,1,Santa Clara del Cobre
+16,79,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,80,0,Senguio
+16,80,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,81,0,Susupuato
+16,81,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,82,0,Tacámbaro
+16,82,1,Tacámbaro de Codallos
+16,82,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,83,0,Tancítaro
+16,83,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,84,0,Tangamandapio
+16,84,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,85,0,Tangancícuaro
+16,85,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,86,0,Tanhuato
+16,86,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,87,0,Taretan
+16,87,1,Taretan
+16,87,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,88,0,Tarímbaro
+16,88,1,Tarímbaro
+16,88,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,89,0,Tepalcatepec
+16,89,1,Tepalcatepec
+16,90,0,Tingambato
+16,90,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,91,0,Tingüindín
+16,91,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,93,0,Tlalpujahua
+16,93,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,97,0,Turicato
+16,97,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,98,0,Tuxpan
+16,98,1,Tuxpan
+16,98,17,Jaripito (Jaripitio)
+16,98,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,99,0,Tuzantla
+16,99,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,100,0,Tzintzuntzan
+16,100,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,101,0,Tzitzio
+16,101,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,102,0,Uruapan
+16,102,1,Uruapan
+16,102,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,103,0,Venustiano Carranza
+16,103,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,104,0,Villamar
+16,104,12,Emiliano Zapata
+16,104,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,106,0,Yurécuaro
+16,106,1,Yurécuaro
+16,106,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,107,0,Zacapu
+16,107,1,Zacapu
+16,107,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,108,0,Zamora
+16,108,1,Zamora de Hidalgo
+16,108,3,Ario de Rayón (Ario Santa Mónica)
+16,108,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,110,0,Zinapécuaro
+16,110,1,Zinapécuaro de Figueroa
+16,110,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,111,0,Ziracuaretiro
+16,111,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+16,112,0,Zitácuaro
+16,112,1,Heróica Zitácuaro
+16,112,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,0,0,Morelos
+17,1,0,Amacuzac
+17,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,2,0,Atlatlahucan
+17,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,3,0,Axochiapan
+17,3,1,Axochiapan
+17,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,4,0,Ayala
+17,4,1,Ciudad Ayala
+17,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,5,0,Coatlán del Río
+17,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,6,0,Cuautla
+17,6,1,Cuautla
+17,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,6,9999,Localidad no especificada
+17,7,0,Cuernavaca
+17,7,1,Cuernavaca
+17,8,0,Emiliano Zapata
+17,8,1,Emiliano Zapata
+17,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,9,0,Huitzilac
+17,9,1,Huitzilac
+17,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,10,0,Jantetelco
+17,10,1,Jantetelco
+17,11,0,Jiutepec
+17,11,1,Jiutepec
+17,12,0,Jojutla
+17,12,1,Jojutla
+17,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,12,9999,Localidad no especificada
+17,13,0,Jonacatepec de Leandro Valle
+17,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,14,0,Mazatepec
+17,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,15,0,Miacatlán
+17,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,16,0,Ocuituco
+17,16,1,Ocuituco
+17,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,17,0,Puente de Ixtla
+17,17,1,Puente de Ixtla
+17,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,18,0,Temixco
+17,18,1,Temixco
+17,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,18,9999,Localidad no especificada
+17,19,0,Tepalcingo
+17,19,1,Tepalcingo
+17,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,20,0,Tepoztlán
+17,20,1,Tepoztlán
+17,21,0,Tetecala
+17,21,1,Tetecala
+17,21,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,22,0,Tetela del Volcán
+17,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,23,0,Tlalnepantla
+17,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,24,0,Tlaltizapán de Zapata
+17,24,1,Tlaltizapán
+17,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,25,0,Tlaquiltenango
+17,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,25,9999,Localidad no especificada
+17,26,0,Tlayacapan
+17,26,1,Tlayacapan
+17,26,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,27,0,Totolapan
+17,27,1,Totolapan
+17,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,28,0,Xochitepec
+17,28,1,Xochitepec
+17,28,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,29,0,Yautepec
+17,29,1,Yautepec de Zaragoza
+17,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,30,0,Yecapixtla
+17,30,1,Yecapixtla
+17,30,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,31,0,Zacatepec
+17,31,1,Zacatepec de Hidalgo
+17,33,0,Temoac
+17,33,1,Temoac
+17,34,0,Coatetelco
+17,34,1,Coatetelco Centro
+17,35,0,Xoxocotla
+17,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,36,0,Hueyapan
+17,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+17,36,9999,Localidad no especificada
+18,0,0,Nayarit
+18,1,0,Acaponeta
+18,1,1,Acaponeta
+18,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,2,0,Ahuacatlán
+18,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,3,0,Amatlán de Cañas
+18,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,4,0,Compostela
+18,4,1,Compostela
+18,4,128,La Peñita de Jaltemba
+18,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,5,0,Huajicori
+18,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,6,0,Ixtlán del Río
+18,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,7,0,Jala
+18,7,1,Jala
+18,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,8,0,Xalisco
+18,8,1,Xalisco
+18,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,9,0,Del Nayar
+18,9,1,Jesús María
+18,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,10,0,Rosamorada
+18,10,1,Rosamorada
+18,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,11,0,Ruíz
+18,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,12,0,San Blas
+18,12,1,San Blas
+18,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,14,0,Santa María del Oro
+18,14,1,Santa María del Oro
+18,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,15,0,Santiago Ixcuintla
+18,15,1,Santiago Ixcuintla
+18,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,16,0,Tecuala
+18,16,1,Tecuala
+18,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,17,0,Tepic
+18,17,1,Tepic
+18,17,151,San Cayetano
+18,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,17,9999,Localidad no especificada
+18,18,0,Tuxpan
+18,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,19,0,La Yesca
+18,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+18,20,0,Bahía de Banderas
+18,20,1,Valle de Banderas
+18,20,83,San José del Valle
+18,20,88,San Vicente
+18,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,0,0,Nuevo León
+19,1,0,Abasolo
+19,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,3,0,Los Aldamas
+19,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,4,0,Allende
+19,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,5,0,Anáhuac
+19,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,6,0,Apodaca
+19,6,1,Ciudad Apodaca
+19,6,9999,Localidad no especificada
+19,8,0,Bustamante
+19,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,9,0,Cadereyta Jiménez
+19,9,1,Cadereyta Jiménez
+19,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,9,9999,Localidad no especificada
+19,10,0,El Carmen
+19,10,1,Carmen
+19,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,11,0,Cerralvo
+19,11,1,Ciudad Cerralvo
+19,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,12,0,Ciénega de Flores
+19,12,1,Ciénega de Flores
+19,12,151,Ciénega
+19,12,9999,Localidad no especificada
+19,13,0,China
+19,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,14,0,Doctor Arroyo
+19,14,1,Doctor Arroyo
+19,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,17,0,Galeana
+19,17,1,Galeana
+19,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,18,0,García
+19,18,1,García
+19,18,9999,Localidad no especificada
+19,19,0,San Pedro Garza García
+19,19,1,San Pedro Garza García
+19,20,0,General Bravo
+19,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,21,0,General Escobedo
+19,21,1,Ciudad General Escobedo
+19,21,9999,Localidad no especificada
+19,22,0,General Terán
+19,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,25,0,General Zuazua
+19,25,1,General Zuazua
+19,26,0,Guadalupe
+19,26,1,Guadalupe
+19,26,9999,Localidad no especificada
+19,29,0,Hualahuises
+19,30,0,Iturbide
+19,30,1,Iturbide
+19,31,0,Juárez
+19,31,1,Ciudad Benito Juárez
+19,31,9999,Localidad no especificada
+19,32,0,Lampazos de Naranjo
+19,32,1,Lampazos de Naranjo
+19,33,0,Linares
+19,33,1,Linares
+19,33,9999,Localidad no especificada
+19,34,0,Marín
+19,34,1,Marín
+19,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,36,0,Mier y Noriega
+19,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,37,0,Mina
+19,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,38,0,Montemorelos
+19,38,1,Montemorelos
+19,39,0,Monterrey
+19,39,1,Monterrey
+19,39,9999,Localidad no especificada
+19,41,0,Pesquería
+19,41,1,Pesquería
+19,41,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,44,0,Sabinas Hidalgo
+19,44,1,Ciudad Sabinas Hidalgo
+19,44,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,45,0,Salinas Victoria
+19,45,1,Salinas Victoria
+19,45,353,Salinas
+19,46,0,San Nicolás de los Garza
+19,46,1,San Nicolás de los Garza
+19,46,9999,Localidad no especificada
+19,47,0,Hidalgo
+19,47,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,47,9999,Localidad no especificada
+19,48,0,Santa Catarina
+19,48,1,Ciudad Santa Catarina
+19,48,9999,Localidad no especificada
+19,49,0,Santiago
+19,49,1,Santiago
+19,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+19,51,0,Villaldama
+19,51,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,0,0,Oaxaca
+20,2,0,Acatlán de Pérez Figueroa
+20,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,3,0,Asunción Cacalotepec
+20,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,5,0,Asunción Ixtaltepec
+20,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,6,0,Asunción Nochixtlán
+20,6,1,Asunción Nochixtlán
+20,9,0,Ayotzintepec
+20,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,11,0,Calihualá
+20,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,12,0,Candelaria Loxicha
+20,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,14,0,Ciudad Ixtepec
+20,14,1,Ciudad Ixtepec
+20,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,15,0,Coatecas Altas
+20,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,16,0,Coicoyán de las Flores
+20,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,20,0,Constancia del Rosario
+20,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,23,0,Cuilápam de Guerrero
+20,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,24,0,Cuyamecalco Villa de Zaragoza
+20,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,26,0,Chalcatongo de Hidalgo
+20,26,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,28,0,Heroica Ciudad de Ejutla de Crespo
+20,28,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,29,0,Eloxochitlán de Flores Magón
+20,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,31,0,Tamazulápam del Espíritu Santo
+20,31,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,34,0,Guadalupe de Ramírez
+20,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,39,0,Heroica Ciudad de Huajuapan de León
+20,39,1,Heroica Ciudad de Huajuapan de León
+20,40,0,Huautepec
+20,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,41,0,Huautla de Jiménez
+20,41,1,Huautla de Jiménez
+20,41,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,42,0,Ixtlán de Juárez
+20,42,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,43,0,Juchitán de Zaragoza
+20,43,1,Juchitán de Zaragoza
+20,44,0,Loma Bonita
+20,44,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,46,0,Magdalena Jaltepec
+20,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,55,0,Mariscala de Juárez
+20,55,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,57,0,Matías Romero Avendaño
+20,57,1,Matías Romero Avendaño
+20,57,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,58,0,Mazatlán Villa de Flores
+20,58,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,59,0,Miahuatlán de Porfirio Díaz
+20,59,1,Miahuatlán de Porfirio Díaz
+20,59,9999,Localidad no especificada
+20,67,0,Oaxaca de Juárez
+20,67,1,Oaxaca de Juárez
+20,68,0,Ocotlán de Morelos
+20,68,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,73,0,Putla Villa de Guerrero
+20,73,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,79,0,Salina Cruz
+20,79,1,Salina Cruz
+20,79,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,81,0,San Agustín Atenango
+20,81,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,82,0,San Agustín Chayuco
+20,82,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,85,0,San Agustín Loxicha
+20,85,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,91,0,San Andrés Huayápam
+20,91,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,94,0,San Andrés Nuxiño
+20,94,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,95,0,San Andrés Paxtlán
+20,95,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,97,0,San Andrés Solaga
+20,97,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,98,0,San Andrés Teotilálpam
+20,98,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,107,0,San Antonio de la Cal
+20,107,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,111,0,San Antonio Tepetlapa
+20,111,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,113,0,San Baltazar Loxicha
+20,113,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,115,0,San Bartolo Coyotepec
+20,115,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,117,0,San Bartolomé Loxicha
+20,117,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,123,0,San Bernardo Mixtepec
+20,123,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,125,0,San Carlos Yautepec
+20,125,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,126,0,San Cristóbal Amatlán
+20,126,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,131,0,San Dionisio Ocotepec
+20,131,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,133,0,San Esteban Atatlahuca
+20,133,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,134,0,San Felipe Jalapa de Díaz
+20,134,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,136,0,San Felipe Usila
+20,136,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,142,0,San Francisco Huehuetlán
+20,142,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,143,0,San Francisco Ixhuatán
+20,143,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,146,0,San Francisco Logueche
+20,146,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,148,0,San Francisco Ozolotepec
+20,148,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,149,0,San Francisco Sola
+20,149,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,152,0,San Francisco Tlapancingo
+20,152,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,154,0,San Ildefonso Amatlán
+20,154,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,156,0,San Ildefonso Villa Alta
+20,156,1,San Ildefonso Villa Alta
+20,156,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,157,0,San Jacinto Amilpas
+20,157,1,San Jacinto Amilpas
+20,157,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,158,0,San Jacinto Tlacotepec
+20,158,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,168,0,San José Estancia Grande
+20,168,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,171,0,San José Tenango
+20,171,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,172,0,San Juan Achiutla
+20,172,1,San Juan Achiutla
+20,177,0,San Juan Bautista Cuicatlán
+20,177,1,San Juan Bautista Cuicatlán
+20,177,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,182,0,San Juan Bautista Tlacoatzintepec
+20,182,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,184,0,San Juan Bautista Tuxtepec
+20,184,1,San Juan Bautista Tuxtepec
+20,184,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,185,0,San Juan Cacahuatepec
+20,185,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,188,0,San Juan Colorado
+20,188,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,190,0,San Juan Cotzocón
+20,190,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,193,0,San Juan del Estado
+20,193,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,196,0,San Juan Evangelista Analco
+20,196,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,198,0,San Juan Guichicovi
+20,198,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,205,0,San Juan Lalana
+20,205,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,207,0,San Juan Mazatlán
+20,207,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,208,0,San Juan Mixtepec
+20,208,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,217,0,San Juan Tamazola
+20,217,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,225,0,San Lorenzo
+20,225,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,226,0,San Lorenzo Albarradas
+20,226,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,227,0,San Lorenzo Cacaotepec
+20,227,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,229,0,San Lorenzo Texmelúcan
+20,229,1,San Lorenzo Texmelúcan
+20,229,2,El Arador
+20,229,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,232,0,San Lucas Ojitlán
+20,232,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,242,0,San Martín Peras
+20,242,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,245,0,San Martín Zacatepec
+20,245,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,248,0,San Mateo del Mar
+20,248,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,249,0,San Mateo Yoloxochitlán
+20,249,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,254,0,San Mateo Río Hondo
+20,254,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,266,0,San Miguel del Puerto
+20,266,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,272,0,San Miguel Panixtlahuaca
+20,272,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,273,0,San Miguel Peras
+20,273,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,274,0,San Miguel Piedras
+20,274,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,277,0,Villa Sola de Vega
+20,277,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,278,0,San Miguel Soyaltepec
+20,278,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,279,0,San Miguel Suchixtepec
+20,279,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,280,0,Villa Talea de Castro
+20,280,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,284,0,San Miguel Tilquiápam
+20,284,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,286,0,San Miguel Tlacotepec
+20,286,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,291,0,San Pablo Coatlán
+20,291,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,293,0,San Pablo Etla
+20,293,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,295,0,San Pablo Huixtepec
+20,295,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,298,0,San Pablo Villa de Mitla
+20,298,1,San Pablo Villa de Mitla
+20,298,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,302,0,San Pedro Atoyac
+20,302,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,306,0,San Pedro el Alto
+20,306,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,311,0,San Pedro Jaltepetongo
+20,311,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,312,0,San Pedro Jicayán
+20,312,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,318,0,San Pedro Mixtepec
+20,318,9,Puerto Escondido
+20,318,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,321,0,San Pedro Nopala
+20,321,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,323,0,San Pedro Ocotepec
+20,323,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,324,0,San Pedro Pochutla
+20,324,1,San Pedro Pochutla
+20,324,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,326,0,San Pedro Sochiápam
+20,326,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,330,0,San Pedro Teutila
+20,330,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,334,0,Villa de Tututepec
+20,334,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,337,0,San Pedro y San Pablo Ayutla
+20,337,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,338,0,Villa de Etla
+20,338,1,Villa de Etla
+20,347,0,San Sebastián Río Hondo
+20,347,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,348,0,San Sebastián Tecomaxtlahuaca
+20,348,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,350,0,San Sebastián Tutla
+20,350,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,352,0,San Simón Zahuatlán
+20,352,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,354,0,Santa Ana Ateixtlahuaca
+20,354,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,355,0,Santa Ana Cuauhtémoc
+20,355,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,360,0,Santa Ana Zegache
+20,360,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,364,0,Santa Catarina Juquila
+20,364,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,367,0,Santa Catarina Mechoacán
+20,367,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,375,0,Santa Cruz Amilpas
+20,375,1,Santa Cruz Amilpas
+20,375,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,379,0,Santa Cruz Nundaco
+20,379,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,384,0,Santa Cruz Xitla
+20,384,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,385,0,Santa Cruz Xoxocotlán
+20,385,1,Santa Cruz Xoxocotlán
+20,386,0,Santa Cruz Zenzontepec
+20,386,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,390,0,Santa Lucía del Camino
+20,390,1,Santa Lucía del Camino
+20,390,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,391,0,Santa Lucía Miahuatlán
+20,391,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,395,0,Santa María Apazco
+20,395,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,396,0,Santa María la Asunción
+20,396,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,397,0,Heroica Ciudad de Tlaxiaco
+20,397,1,Heroica Ciudad de Tlaxiaco
+20,398,0,Ayoquezco de Aldama
+20,398,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,399,0,Santa María Atzompa
+20,399,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,401,0,Santa María Colotepec
+20,401,1,Santa María Colotepec
+20,401,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,402,0,Santa María Cortijo
+20,402,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,406,0,Santa María Chilchotla
+20,406,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,407,0,Santa María Chimalapa
+20,407,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,409,0,Santa María del Tule
+20,409,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,413,0,Santa María Huatulco
+20,413,1,Santa María Huatulco
+20,413,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,414,0,Santa María Huazolotitlán
+20,414,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,417,0,Santa María Jacatepec
+20,417,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,420,0,Santa María Lachixío
+20,420,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,425,0,Santa María Pápalo
+20,425,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,426,0,Santa María Peñoles
+20,426,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,434,0,Santa María Teopoxco
+20,434,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,438,0,Santa María Tlalixtac
+20,439,0,Santa María Tonameca
+20,439,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,447,0,Santa María Zacatepec
+20,447,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,448,0,Santa María Zaniza
+20,448,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,450,0,Santiago Amoltepec
+20,450,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,452,0,Santiago Apóstol
+20,452,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,454,0,Santiago Atitlán
+20,454,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,455,0,Santiago Ayuquililla
+20,455,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,457,0,Santiago Camotlán
+20,457,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,459,0,Villa de Santiago Chazumba
+20,459,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,460,0,Santiago Choápam
+20,460,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,466,0,Santiago Ixtayutla
+20,466,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,467,0,Santiago Jamiltepec
+20,467,1,Santiago Jamiltepec
+20,467,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,468,0,Santiago Jocotepec
+20,468,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,469,0,Santiago Juxtlahuaca
+20,469,1,Santiago Juxtlahuaca
+20,469,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,470,0,Santiago Lachiguiri
+20,470,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,473,0,Santiago Laxopa
+20,473,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,474,0,Santiago Llano Grande
+20,474,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,475,0,Santiago Matatlán
+20,475,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,482,0,Santiago Pinotepa Nacional
+20,482,1,Santiago Pinotepa Nacional
+20,482,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,484,0,Santiago Tamazola
+20,484,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,489,0,Santiago Tetepec
+20,489,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,490,0,Santiago Texcalcingo
+20,490,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,491,0,Santiago Textitlán
+20,491,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,493,0,Santiago Tillo
+20,493,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,494,0,Santiago Tlazoyaltepec
+20,494,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,499,0,Santiago Yolomécatl
+20,499,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,509,0,Santo Domingo de Morelos
+20,509,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,511,0,Santo Domingo Nuxaá
+20,511,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,514,0,Santo Domingo Roayaga
+20,514,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,515,0,Santo Domingo Tehuantepec
+20,515,1,Santo Domingo Tehuantepec
+20,515,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,516,0,Santo Domingo Teojomulco
+20,516,1,Santo Domingo Teojomulco
+20,520,0,Santo Domingo Tonalá
+20,520,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,522,0,Santo Domingo Xagacía
+20,522,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,526,0,Santos Reyes Nopala
+20,526,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,529,0,Santos Reyes Yucuná
+20,529,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,539,0,Soledad Etla
+20,539,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,540,0,Villa de Tamazulápam del Progreso
+20,540,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,543,0,Tataltepec de Valdés
+20,543,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,545,0,Teotitlán de Flores Magón
+20,545,1,Teotitlán de Flores Magón
+20,550,0,San Jerónimo Tlacochahuaya
+20,550,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,551,0,Tlacolula de Matamoros
+20,551,1,Tlacolula de Matamoros
+20,553,0,Tlalixtac de Cabrera
+20,553,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,557,0,Unión Hidalgo
+20,557,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,559,0,San Juan Bautista Valle Nacional
+20,559,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,560,0,Villa Díaz Ordaz
+20,560,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,565,0,Villa de Zaachila
+20,565,1,Villa de Zaachila
+20,565,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,566,0,San Mateo Yucutindoo
+20,566,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,569,0,Santa Inés de Zaragoza
+20,569,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,570,0,Zimatlán de Álvarez
+20,570,1,Zimatlán de Álvarez
+20,570,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+20,999,0,Municipio no especificado
+20,999,9999,Localidad no especificada
+21,0,0,Puebla
+21,1,0,Acajete
+21,1,1,Acajete
+21,1,17,San Juan Tepulco
+21,1,66,Santa Isabel Tepetzala
+21,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,2,0,Acateno
+21,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,3,0,Acatlán
+21,3,1,Acatlán de Osorio
+21,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,4,0,Acatzingo
+21,4,1,Acatzingo de Hidalgo
+21,4,2,Actipan de Morelos (Santa María Actipan)
+21,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,6,0,Ahuacatlán
+21,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,7,0,Ahuatlán
+21,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,8,0,Ahuazotepec
+21,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,10,0,Ajalpan
+21,10,1,Ciudad de Ajalpan
+21,10,2,San Sebastián Alcomunga
+21,10,16,Tecpantzacualco
+21,10,25,Cuaxuxpa
+21,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,13,0,Altepexi
+21,13,1,Altepexi
+21,14,0,Amixtlán
+21,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,15,0,Amozoc
+21,15,1,Amozoc de Mota
+21,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,16,0,Aquixtla
+21,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,17,0,Atempan
+21,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,18,0,Atexcal
+21,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,19,0,Atlixco
+21,19,1,Atlixco
+21,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,20,0,Atoyatempan
+21,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,22,0,Atzitzihuacán
+21,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,25,0,Ayotoxco de Guerrero
+21,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,26,0,Calpan
+21,26,1,San Andrés Calpan
+21,26,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,27,0,Caltepec
+21,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,31,0,Coatzingo
+21,31,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,32,0,Cohetzala
+21,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,34,0,Coronango
+21,34,1,Santa María Coronango
+21,34,3,San Francisco Ocotlán (Ocotlán)
+21,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,35,0,Coxcatlán
+21,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,36,0,Coyomeapan
+21,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,38,0,Cuapiaxtla de Madero
+21,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,39,0,Cuautempan
+21,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,40,0,Cuautinchán
+21,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,41,0,Cuautlancingo
+21,41,1,San Juan Cuautlancingo
+21,41,12,San Lorenzo Almecatla
+21,41,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,41,9999,Localidad no especificada
+21,42,0,Cuayuca de Andrade
+21,42,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,43,0,Cuetzalan del Progreso
+21,43,1,Ciudad de Cuetzalan
+21,43,14,Pahpatapán
+21,43,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,44,0,Cuyoaco
+21,44,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,45,0,Chalchicomula de Sesma
+21,45,1,Ciudad Serdán
+21,45,25,El Veladero (Santa Cruz Veladero)
+21,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,46,0,Chapulco
+21,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,47,0,Chiautla
+21,47,1,Ciudad de Chiautla de Tapia
+21,47,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,48,0,Chiautzingo
+21,48,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,49,0,Chiconcuautla
+21,49,14,San Lorenzo Tlaxipehuala
+21,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,50,0,Chichiquila
+21,50,1,Chichiquila
+21,50,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,51,0,Chietla
+21,51,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,53,0,Chignahuapan
+21,53,1,Ciudad de Chignahuapan
+21,53,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,54,0,Chignautla
+21,54,1,Chignautla
+21,54,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,57,0,Honey
+21,57,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,58,0,Chilchotla
+21,58,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,60,0,Domingo Arenas
+21,60,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,61,0,Eloxochitlán
+21,61,1,Eloxochitlán
+21,61,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,62,0,Epatlán
+21,62,1,San Juan Epatlán
+21,62,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,63,0,Esperanza
+21,63,1,Esperanza
+21,64,0,Francisco Z. Mena
+21,64,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,65,0,General Felipe Ángeles
+21,65,1,San Pablo de las Tunas
+21,65,6,Santa +rsula Chiconquiac
+21,65,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,66,0,Guadalupe
+21,66,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,67,0,Guadalupe Victoria
+21,67,1,Guadalupe Victoria
+21,67,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,68,0,Hermenegildo Galeana
+21,68,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,69,0,Huaquechula
+21,69,1,Huaquechula
+21,69,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,70,0,Huatlatlauca
+21,70,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,71,0,Huauchinango
+21,71,1,Huauchinango
+21,71,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,72,0,Huehuetla
+21,72,1,Huehuetla
+21,72,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,73,0,Huehuetlán el Chico
+21,73,1,Huehuetlán el Chico
+21,74,0,Huejotzingo
+21,74,1,Huejotzingo
+21,74,29,Santa Ana Xalmimilulco
+21,74,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,75,0,Hueyapan
+21,75,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,76,0,Hueytamalco
+21,76,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,77,0,Hueytlalpan
+21,77,3,Zitlala
+21,77,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,78,0,Huitzilan de Serdán
+21,78,9,San José Aocotzota
+21,78,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,81,0,Ixcamilpa de Guerrero
+21,81,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,82,0,Ixcaquixtla
+21,82,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,83,0,Ixtacamaxtitlán
+21,83,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,84,0,Ixtepec
+21,84,1,Ixtepec
+21,84,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,85,0,Izúcar de Matamoros
+21,85,1,Izúcar de Matamoros
+21,85,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,86,0,Jalpan
+21,86,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,87,0,Jolalpan
+21,87,1,Jolalpan
+21,88,0,Jonotla
+21,88,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,89,0,Jopala
+21,89,4,Chicontla
+21,89,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,90,0,Juan C. Bonilla
+21,90,1,Cuanalá
+21,90,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,91,0,Juan Galindo
+21,91,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,93,0,Lafragua
+21,93,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,94,0,Libres
+21,94,1,Ciudad de Libres
+21,94,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,95,0,La Magdalena Tlatlauquitepec
+21,95,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,97,0,Mixtla
+21,97,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,98,0,Molcaxac
+21,98,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,99,0,Cañada Morelos
+21,99,1,Morelos Cañada
+21,100,0,Naupan
+21,100,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,101,0,Nauzontla
+21,101,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,102,0,Nealtican
+21,102,1,San Buenaventura Nealtican
+21,102,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,103,0,Nicolás Bravo
+21,103,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,104,0,Nopalucan
+21,104,19,Santa María Ixtiyucan
+21,104,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,106,0,Ocoyucan
+21,106,1,Santa Clara Ocoyucan
+21,106,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,107,0,Olintla
+21,107,1,Olintla
+21,107,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,107,9999,Localidad no especificada
+21,108,0,Oriental
+21,108,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,109,0,Pahuatlán
+21,109,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,110,0,Palmar de Bravo
+21,110,13,La Purísima
+21,110,20,Santa Cruz Monterrosas
+21,110,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,111,0,Pantepec
+21,111,1,Pantepec
+21,111,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,112,0,Petlalcingo
+21,112,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,113,0,Piaxtla
+21,113,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,114,0,Puebla
+21,114,1,Heroica Puebla de Zaragoza
+21,114,133,San Andrés Azumiatla
+21,114,190,La Resurrección
+21,114,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,114,9999,Localidad no especificada
+21,115,0,Quecholac
+21,115,1,Quecholac
+21,115,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,116,0,Quimixtlán
+21,116,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,118,0,Los Reyes de Juárez
+21,118,1,Los Reyes de Juárez
+21,118,15,San Juan Acozac
+21,118,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,119,0,San Andrés Cholula
+21,119,1,San Andrés Cholula
+21,119,13,San Bernardino Tlaxcalancingo
+21,119,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,120,0,San Antonio Cañada
+21,120,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,121,0,San Diego la Mesa Tochimiltzingo
+21,121,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,122,0,San Felipe Teotlalcingo
+21,122,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,123,0,San Felipe Tepatlán
+21,123,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,124,0,San Gabriel Chilac
+21,124,1,San Gabriel Chilac
+21,125,0,San Gregorio Atzompa
+21,125,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,126,0,San Jerónimo Tecuanipan
+21,126,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,127,0,San Jerónimo Xayacatlán
+21,127,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,128,0,San José Chiapa
+21,128,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,129,0,San José Miahuatlán
+21,129,1,San José Miahuatlán
+21,132,0,San Martín Texmelucan
+21,132,1,San Martín Texmelucan de Labastida
+21,132,15,Santa María Moyotzingo
+21,132,40,El Moral
+21,132,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,134,0,San Matías Tlalancaleca
+21,134,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,136,0,San Miguel Xoxtla
+21,136,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,137,0,San Nicolás Buenos Aires
+21,137,1,San Nicolás Buenos Aires
+21,137,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,138,0,San Nicolás de los Ranchos
+21,138,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,139,0,San Pablo Anicano
+21,139,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,140,0,San Pedro Cholula
+21,140,1,Cholula de Rivadavia
+21,140,7,San Francisco Coapan
+21,140,20,Santa María Acuexcomac
+21,140,27,San Gregorio Zacapechpan
+21,140,40,San Cristóbal Tepontla
+21,140,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,142,0,San Salvador el Seco
+21,142,1,San Salvador el Seco
+21,142,3,Santa María Coatepec
+21,142,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,143,0,San Salvador el Verde
+21,143,11,San Lucas el Grande
+21,143,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,144,0,San Salvador Huixcolotla
+21,144,1,San Salvador Huixcolotla
+21,144,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,145,0,San Sebastián Tlacotepec
+21,145,1,Tlacotepec de Porfirio Díaz
+21,145,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,147,0,Santa Inés Ahuatempan
+21,147,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,148,0,Santa Isabel Cholula
+21,148,1,Santa Isabel Cholula
+21,148,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,149,0,Santiago Miahuatlán
+21,149,1,Santiago Miahuatlán
+21,149,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,152,0,Soltepec
+21,152,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,153,0,Tecali de Herrera
+21,153,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,154,0,Tecamachalco
+21,154,1,Tecamachalco
+21,154,21,San Mateo Tlaixpan
+21,154,27,Santiago Alseseca
+21,154,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,155,0,Tecomatlán
+21,155,1,Tecomatlán
+21,155,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,155,9999,Localidad no especificada
+21,156,0,Tehuacán
+21,156,1,Tehuacán
+21,156,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,156,9999,Localidad no especificada
+21,157,0,Tehuitzingo
+21,157,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,161,0,Tepanco de López
+21,161,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,162,0,Tepango de Rodríguez
+21,162,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,163,0,Tepatlaxco de Hidalgo
+21,163,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,164,0,Tepeaca
+21,164,1,Tepeaca
+21,164,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,165,0,Tepemaxalco
+21,165,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,166,0,Tepeojuma
+21,166,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,167,0,Tepetzintla
+21,167,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,168,0,Tepexco
+21,168,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,169,0,Tepexi de Rodríguez
+21,169,1,Tepexi de Rodríguez
+21,169,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,170,0,Tepeyahualco
+21,170,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,172,0,Tetela de Ocampo
+21,172,1,Ciudad de Tetela de Ocampo
+21,172,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,173,0,Teteles de Ávila Castillo
+21,173,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,174,0,Teziutlán
+21,174,1,Teziutlán
+21,174,4,Atoluca
+21,174,19,San Sebastián
+21,174,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,175,0,Tianguismanalco
+21,175,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,176,0,Tilapa
+21,176,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,177,0,Tlacotepec de Benito Juárez
+21,177,1,Tlacotepec de Benito Juárez
+21,177,16,San Marcos Tlacoyalco
+21,177,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,177,9999,Localidad no especificada
+21,178,0,Tlacuilotepec
+21,178,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,179,0,Tlachichuca
+21,179,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,180,0,Tlahuapan
+21,180,15,San Rafael Ixtapalucan
+21,180,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,181,0,Tlaltenango
+21,181,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,183,0,Tlaola
+21,183,1,Tlaola
+21,183,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,185,0,Tlapanalá
+21,185,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,186,0,Tlatlauquitepec
+21,186,1,Ciudad de Tlatlauquitepec
+21,186,36,Tochimpa
+21,186,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,187,0,Tlaxco
+21,187,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,188,0,Tochimilco
+21,188,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,189,0,Tochtepec
+21,189,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,191,0,Tulcingo
+21,191,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,193,0,Tzicatlacoyan
+21,193,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,194,0,Venustiano Carranza
+21,194,16,Ciudad de Lázaro Cárdenas
+21,194,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,195,0,Vicente Guerrero
+21,195,1,Santa María del Monte
+21,195,14,Telpatlán
+21,195,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,197,0,Xicotepec
+21,197,1,Xicotepec de Juárez
+21,197,4,Gilberto Camacho
+21,197,29,Villa Ávila Camacho (La Ceiba)
+21,197,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,199,0,Xiutetelco
+21,199,1,San Juan Xiutetelco
+21,199,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,200,0,Xochiapulco
+21,200,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,201,0,Xochiltepec
+21,201,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,202,0,Xochitlán de Vicente Suárez
+21,202,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,203,0,Xochitlán Todos Santos
+21,203,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,205,0,Yehualtepec
+21,205,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,207,0,Zacapoaxtla
+21,207,1,Zacapoaxtla
+21,207,2,Ahuacatlán
+21,207,3,Atacpan
+21,207,21,Xalacapan
+21,207,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,208,0,Zacatlán
+21,208,1,Zacatlán
+21,208,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,208,9999,Localidad no especificada
+21,209,0,Zapotitlán
+21,209,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,210,0,Zapotitlán de Méndez
+21,210,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,211,0,Zaragoza
+21,211,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,212,0,Zautla
+21,212,24,San Miguel Tenextatiloyan
+21,212,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,213,0,Zihuateutla
+21,213,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,214,0,Zinacatepec
+21,214,1,San Sebastián Zinacatepec
+21,214,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+21,215,0,Zongozotla
+21,215,1,Zongozotla
+21,217,0,Zoquitlán
+21,217,1,Zoquitlán
+21,217,2,Acatepec (San Antonio)
+21,217,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,0,0,Querétaro
+22,1,0,Amealco de Bonfil
+22,1,1,Amealco de Bonfil
+22,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,2,0,Pinal de Amoles
+22,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,4,0,Cadereyta de Montes
+22,4,1,Cadereyta de Montes
+22,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,5,0,Colón
+22,5,1,Colón
+22,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,6,0,Corregidora
+22,6,1,El Pueblito
+22,6,17,La Negreta
+22,6,19,Los Olvera
+22,6,44,San José de los Olvera
+22,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,7,0,Ezequiel Montes
+22,7,1,Ezequiel Montes
+22,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,8,0,Huimilpan
+22,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,9,0,Jalpan de Serra
+22,9,1,Jalpan de Serra
+22,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,10,0,Landa de Matamoros
+22,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,11,0,El Marqués
+22,11,17,General Lázaro Cárdenas (El Colorado)
+22,11,67,Santa Cruz
+22,11,99,El Marqués [Rancho]
+22,11,439,La Pradera
+22,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,12,0,Pedro Escobedo
+22,12,1,Pedro Escobedo
+22,12,20,La Lira
+22,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,13,0,Peñamiller
+22,13,1,Peñamiller
+22,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,14,0,Querétaro
+22,14,1,Santiago de Querétaro
+22,14,58,Juriquilla
+22,14,101,San José el Alto
+22,14,108,Santa Rosa Jáuregui
+22,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,14,9999,Localidad no especificada
+22,15,0,San Joaquín
+22,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,16,0,San Juan del Río
+22,16,1,San Juan del Río
+22,16,2,Arcila
+22,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,16,9999,Localidad no especificada
+22,17,0,Tequisquiapan
+22,17,1,Tequisquiapan
+22,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,17,9999,Localidad no especificada
+22,18,0,Tolimán
+22,18,1,Tolimán
+22,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+22,999,0,Municipio no especificado
+22,999,9999,Localidad no especificada
+23,0,0,Quintana Roo
+23,1,0,Cozumel
+23,1,1,Cozumel
+23,2,0,Felipe Carrillo Puerto
+23,2,1,Felipe Carrillo Puerto
+23,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+23,2,9999,Localidad no especificada
+23,4,0,Othón P. Blanco
+23,4,1,Chetumal
+23,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+23,5,0,Benito Juárez
+23,5,1,Cancún
+23,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+23,6,0,José María Morelos
+23,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+23,7,0,Lázaro Cárdenas
+23,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+23,8,0,Solidaridad
+23,8,1,Playa del Carmen
+23,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+23,8,9999,Localidad no especificada
+23,9,0,Tulum
+23,9,1,Tulum
+23,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+23,9,9999,Localidad no especificada
+23,10,0,Bacalar
+23,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+23,11,0,Puerto Morelos
+23,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+23,999,0,Municipio no especificado
+23,999,9999,Localidad no especificada
+24,0,0,San Luis Potosí
+24,1,0,Ahualulco del Sonido 13
+24,1,1,Ahualulco del Sonido 13
+24,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,2,0,Alaquines
+24,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,3,0,Aquismón
+24,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,5,0,Cárdenas
+24,5,1,Cárdenas
+24,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,6,0,Catorce
+24,6,1,Real de Catorce
+24,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,7,0,Cedral
+24,7,1,Cedral
+24,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,8,0,Cerritos
+24,8,1,Cerritos
+24,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,10,0,Ciudad del Maíz
+24,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,11,0,Ciudad Fernández
+24,11,1,Ciudad Fernández
+24,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,12,0,Tancanhuitz
+24,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,12,9999,Localidad no especificada
+24,13,0,Ciudad Valles
+24,13,1,Ciudad Valles
+24,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,14,0,Coxcatlán
+24,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,15,0,Charcas
+24,15,1,Charcas
+24,16,0,Ebano
+24,16,16,Laguna Chica
+24,16,91,Ponciano Arriaga
+24,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,17,0,Guadalcázar
+24,17,1,Guadalcázar
+24,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,19,0,Lagunillas
+24,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,20,0,Matehuala
+24,20,1,Matehuala
+24,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,20,9999,Localidad no especificada
+24,21,0,Mexquitic de Carmona
+24,21,1,Mexquitic de Carmona
+24,21,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,22,0,Moctezuma
+24,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,23,0,Rayón
+24,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,24,0,Rioverde
+24,24,1,Rioverde
+24,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,24,9999,Localidad no especificada
+24,25,0,Salinas
+24,25,1,Salinas de Hidalgo
+24,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,27,0,San Ciro de Acosta
+24,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,28,0,San Luis Potosí
+24,28,1,San Luis Potosí
+24,28,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,28,9999,Localidad no especificada
+24,29,0,San Martín Chalchicuautla
+24,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,30,0,San Nicolás Tolentino
+24,30,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,31,0,Santa Catarina
+24,31,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,32,0,Santa María del Río
+24,32,1,Santa María del Río
+24,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,33,0,Santo Domingo
+24,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,34,0,San Vicente Tancuayalab
+24,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,35,0,Soledad de Graciano Sánchez
+24,35,1,Soledad de Graciano Sánchez
+24,36,0,Tamasopo
+24,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,37,0,Tamazunchale
+24,37,1,Tamazunchale
+24,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,37,9999,Localidad no especificada
+24,38,0,Tampacán
+24,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,39,0,Tampamolón Corona
+24,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,40,0,Tamuín
+24,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,41,0,Tanlajás
+24,41,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,43,0,Tierra Nueva
+24,43,1,Tierra Nueva
+24,44,0,Vanegas
+24,44,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,45,0,Venado
+24,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,46,0,Villa de Arriaga
+24,46,1,Villa de Arriaga
+24,48,0,Villa de la Paz
+24,48,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,49,0,Villa de Ramos
+24,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,50,0,Villa de Reyes
+24,50,1,Villa de Reyes
+24,50,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,51,0,Villa Hidalgo
+24,51,1,Villa Hidalgo
+24,51,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,52,0,Villa Juárez
+24,52,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,53,0,Axtla de Terrazas
+24,53,1,Axtla de Terrazas
+24,53,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,54,0,Xilitla
+24,54,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,55,0,Zaragoza
+24,55,1,Villa de Zaragoza
+24,55,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,56,0,Villa de Arista
+24,56,2,Villa de Arista
+24,56,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,57,0,Matlapa
+24,57,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,58,0,El Naranjo
+24,58,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+24,999,0,Municipio no especificado
+24,999,9999,Localidad no especificada
+25,0,0,Sinaloa
+25,1,0,Ahome
+25,1,1,Los Mochis
+25,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,2,0,Angostura
+25,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,3,0,Badiraguato
+25,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,4,0,Concordia
+25,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,5,0,Cosalá
+25,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,6,0,Culiacán
+25,6,1,Culiacán Rosales
+25,6,312,Costa Rica
+25,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,6,9999,Localidad no especificada
+25,7,0,Choix
+25,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,8,0,Elota
+25,8,1,La Cruz
+25,9,0,Escuinapa
+25,9,1,Escuinapa de Hidalgo
+25,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,10,0,El Fuerte
+25,10,1,El Fuerte
+25,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,11,0,Guasave
+25,11,1,Guasave
+25,11,138,Juan José Ríos
+25,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,12,0,Mazatlán
+25,12,1,Mazatlán
+25,13,0,Mocorito
+25,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,14,0,Rosario
+25,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,15,0,Salvador Alvarado
+25,15,1,Guamúchil
+25,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,16,0,San Ignacio
+25,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,17,0,Sinaloa
+25,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+25,18,0,Navolato
+25,18,1,Navolato
+25,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,0,0,Sonora
+26,2,0,Agua Prieta
+26,2,1,Agua Prieta
+26,3,0,Álamos
+26,3,1,Álamos
+26,9,0,Bacanora
+26,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,12,0,Bácum
+26,12,1,Bácum
+26,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,13,0,Banámichi
+26,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,17,0,Caborca
+26,17,1,Heroica Caborca
+26,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,18,0,Cajeme
+26,18,1,Ciudad Obregón
+26,18,3030,Carlos Valenzuela Pérez (Ejido Cócorit)
+26,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,18,9999,Localidad no especificada
+26,19,0,Cananea
+26,19,1,Heroica Ciudad de Cananea
+26,20,0,Carbó
+26,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,23,0,Cumpas
+26,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,25,0,Empalme
+26,25,1,Empalme
+26,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,26,0,Etchojoa
+26,26,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,27,0,Fronteras
+26,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,29,0,Guaymas
+26,29,1,Heroica Guaymas
+26,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,30,0,Hermosillo
+26,30,1,Hermosillo
+26,30,343,Miguel Alemán (La Doce)
+26,30,1462,Sahuaripa Uno
+26,30,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,30,9999,Localidad no especificada
+26,31,0,Huachinera
+26,31,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,33,0,Huatabampo
+26,33,1,Huatabampo
+26,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,33,9999,Localidad no especificada
+26,35,0,Imuris
+26,35,1,Imuris
+26,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,36,0,Magdalena
+26,36,1,Magdalena de Kino
+26,38,0,Moctezuma
+26,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,39,0,Naco
+26,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,41,0,Nacozari de García
+26,41,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,42,0,Navojoa
+26,42,1,Navojoa
+26,42,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,43,0,Nogales
+26,43,1,Heroica Nogales
+26,45,0,Opodepe
+26,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,47,0,Pitiquito
+26,47,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,48,0,Puerto Peñasco
+26,48,1,Puerto Peñasco
+26,49,0,Quiriego
+26,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,55,0,San Luis Río Colorado
+26,55,1,San Luis Río Colorado
+26,55,9999,Localidad no especificada
+26,56,0,San Miguel de Horcasitas
+26,56,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,57,0,San Pedro de la Cueva
+26,57,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,58,0,Santa Ana
+26,58,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,62,0,Suaqui Grande
+26,62,1,Suaqui Grande
+26,64,0,Trincheras
+26,64,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,66,0,Ures
+26,66,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,70,0,General Plutarco Elías Calles
+26,70,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,71,0,Benito Juárez
+26,71,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,72,0,San Ignacio Río Muerto
+26,72,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,0,0,Tabasco
+27,1,0,Balancán
+27,1,1,Balancán
+27,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,2,0,Cárdenas
+27,2,1,Cárdenas
+27,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,3,0,Centla
+27,3,1,Frontera
+27,3,56,Simón Sarlat
+27,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,4,0,Centro
+27,4,1,Villahermosa
+27,4,154,Pueblo Nuevo de las Raíces
+27,4,166,Playas del Rosario (Subteniente García)
+27,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,4,9999,Localidad no especificada
+27,5,0,Comalcalco
+27,5,1,Comalcalco
+27,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,6,0,Cunduacán
+27,6,1,Cunduacán
+27,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,6,9999,Localidad no especificada
+27,7,0,Emiliano Zapata
+27,7,1,Emiliano Zapata
+27,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,8,0,Huimanguillo
+27,8,1,Huimanguillo
+27,8,98,La Venta
+27,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,9,0,Jalapa
+27,9,1,Jalapa
+27,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,10,0,Jalpa de Méndez
+27,10,3,Ayapa
+27,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,11,0,Jonuta
+27,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,12,0,Macuspana
+27,12,1,Macuspana
+27,12,102,Santuario 1ra. Sección (Estación Macuspana)
+27,12,141,La Escalera
+27,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,12,9999,Localidad no especificada
+27,13,0,Nacajuca
+27,13,1,Nacajuca
+27,13,80,Brisas del Carrizal
+27,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,14,0,Paraíso
+27,14,1,Paraíso
+27,14,27,Quintín Arauz
+27,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,15,0,Tacotalpa
+27,15,1,Tacotalpa
+27,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,16,0,Teapa
+27,16,1,Teapa
+27,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+27,17,0,Tenosique
+27,17,1,Tenosique de Pino Suárez
+27,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,0,0,Tamaulipas
+28,3,0,Altamira
+28,3,1,Altamira
+28,4,0,Antiguo Morelos
+28,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,5,0,Burgos
+28,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,7,0,Camargo
+28,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,9,0,Ciudad Madero
+28,9,1,Ciudad Madero
+28,12,0,González
+28,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,14,0,Guerrero
+28,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,15,0,Gustavo Díaz Ordaz
+28,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,16,0,Hidalgo
+28,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,17,0,Jaumave
+28,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,19,0,Llera
+28,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,21,0,El Mante
+28,21,1,Ciudad Mante
+28,22,0,Matamoros
+28,22,1,Heroica Matamoros
+28,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,23,0,Méndez
+28,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,24,0,Mier
+28,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,25,0,Miguel Alemán
+28,25,1,Ciudad Miguel Alemán
+28,26,0,Miquihuana
+28,26,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,27,0,Nuevo Laredo
+28,27,1,Nuevo Laredo
+28,27,9999,Localidad no especificada
+28,30,0,Padilla
+28,30,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,32,0,Reynosa
+28,32,1,Reynosa
+28,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,32,9999,Localidad no especificada
+28,33,0,Río Bravo
+28,33,1,Ciudad Río Bravo
+28,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,34,0,San Carlos
+28,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,35,0,San Fernando
+28,35,1,San Fernando
+28,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,37,0,Soto la Marina
+28,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,38,0,Tampico
+28,38,1,Tampico
+28,38,9999,Localidad no especificada
+28,40,0,Valle Hermoso
+28,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+28,41,0,Victoria
+28,41,1,Ciudad Victoria
+29,0,0,Tlaxcala
+29,1,0,Amaxac de Guerrero
+29,1,1,Amaxac de Guerrero
+29,2,0,Apetatitlán de Antonio Carvajal
+29,2,3,San Matías Tepetomatitlán
+29,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,3,0,Atlangatepec
+29,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,4,0,Atltzayanca
+29,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,5,0,Apizaco
+29,5,1,Ciudad de Apizaco
+29,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,5,9999,Localidad no especificada
+29,6,0,Calpulalpan
+29,6,1,Heroica Ciudad de Calpulalpan
+29,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,7,0,El Carmen Tequexquitla
+29,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,10,0,Chiautempan
+29,10,1,Santa Ana Chiautempan
+29,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,11,0,Muñoz de Domingo Arenas
+29,12,0,Españita
+29,13,0,Huamantla
+29,13,1,Huamantla
+29,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,14,0,Hueyotlipan
+29,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,15,0,Ixtacuixtla de Mariano Matamoros
+29,15,1,Villa Mariano Matamoros
+29,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,16,0,Ixtenco
+29,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,17,0,Mazatecochco de José María Morelos
+29,17,1,Mazatecochco
+29,18,0,Contla de Juan Cuamatzi
+29,18,1,Contla
+29,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,19,0,Tepetitla de Lardizábal
+29,19,1,Tepetitla
+29,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,20,0,Sanctórum de Lázaro Cárdenas
+29,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,21,0,Nanacamilpa de Mariano Arista
+29,21,1,Ciudad de Nanacamilpa
+29,21,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,22,0,Acuamanala de Miguel Hidalgo
+29,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,23,0,Natívitas
+29,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,24,0,Panotla
+29,24,1,Panotla
+29,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,25,0,San Pablo del Monte
+29,25,1,Ciudad de San Pablo del Monte
+29,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,25,9999,Localidad no especificada
+29,26,0,Santa Cruz Tlaxcala
+29,27,0,Tenancingo
+29,27,1,Tenancingo
+29,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,28,0,Teolocholco
+29,28,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,29,0,Tepeyanco
+29,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,30,0,Terrenate
+29,30,1,Terrenate
+29,31,0,Tetla de la Solidaridad
+29,31,1,Tetla
+29,31,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,32,0,Tetlatlahuca
+29,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,33,0,Tlaxcala
+29,33,1,Tlaxcala de Xicohténcatl
+29,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,34,0,Tlaxco
+29,34,1,Tlaxco
+29,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,35,0,Tocatlán
+29,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,36,0,Totolac
+29,36,1,San Juan Totolac
+29,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,37,0,Ziltlaltépec de Trinidad Sánchez Santos
+29,37,1,Zitlaltépec
+29,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,38,0,Tzompantepec
+29,38,2,San Andrés Ahuashuatepec
+29,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,39,0,Xaloztoc
+29,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,41,0,Papalotla de Xicohténcatl
+29,41,1,Papalotla
+29,41,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,42,0,Xicohtzinco
+29,42,1,Xicohtzinco
+29,42,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,43,0,Yauhquemehcan
+29,43,3,San Benito Xaltocan
+29,43,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,44,0,Zacatelco
+29,44,1,Zacatelco
+29,45,0,Benito Juárez
+29,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,46,0,Emiliano Zapata
+29,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,47,0,Lázaro Cárdenas
+29,47,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,48,0,La Magdalena Tlaltelulco
+29,48,1,La Magdalena Tlaltelulco
+29,49,0,San Damián Texóloc
+29,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,50,0,San Francisco Tetlanohcan
+29,50,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,52,0,San José Teacalco
+29,52,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,53,0,San Juan Huactzinco
+29,53,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,54,0,San Lorenzo Axocomanitla
+29,54,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,55,0,San Lucas Tecopilco
+29,55,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,56,0,Santa Ana Nopalucan
+29,56,1,Santa Ana Nopalucan
+29,57,0,Santa Apolonia Teacalco
+29,57,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,58,0,Santa Catarina Ayometla
+29,58,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,59,0,Santa Cruz Quilehtla
+29,59,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+29,60,0,Santa Isabel Xiloxoxtla
+29,60,1,Santa Isabel Xiloxoxtla
+29,60,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,0,0,Veracruz de Ignacio de la Llave
+30,1,0,Acajete
+30,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,2,0,Acatlán
+30,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,3,0,Acayucan
+30,3,1,Acayucan
+30,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,4,0,Actopan
+30,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,5,0,Acula
+30,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,6,0,Acultzingo
+30,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,8,0,Alpatláhuac
+30,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,9,0,Alto Lucero de Gutiérrez Barrios
+30,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,10,0,Altotonga
+30,10,1,Altotonga
+30,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,11,0,Alvarado
+30,11,1,Alvarado
+30,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,13,0,Naranjos Amatlán
+30,13,1,Naranjos
+30,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,14,0,Amatlán de los Reyes
+30,14,1,Amatlán de los Reyes
+30,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,16,0,La Antigua
+30,16,1,José Cardel
+30,16,2,La Antigua
+30,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,17,0,Apazapan
+30,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,19,0,Astacinga
+30,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,20,0,Atlahuilco
+30,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,21,0,Atoyac
+30,21,1,Atoyac
+30,21,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,22,0,Atzacan
+30,22,1,Atzacan
+30,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,23,0,Atzalan
+30,23,54,Plan de Arroyos
+30,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,24,0,Tlaltetela
+30,24,1,Tlaltetela
+30,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,25,0,Ayahualulco
+30,25,1,Ayahualulco
+30,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,26,0,Banderilla
+30,26,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,27,0,Benito Juárez
+30,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,28,0,Boca del Río
+30,28,1,Boca del Río
+30,28,9999,Localidad no especificada
+30,29,0,Calcahualco
+30,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,30,0,Camerino Z. Mendoza
+30,30,1,Ciudad Mendoza
+30,30,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,31,0,Carrillo Puerto
+30,31,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,31,9999,Localidad no especificada
+30,32,0,Catemaco
+30,32,1,Catemaco
+30,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,33,0,Cazones de Herrera
+30,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,34,0,Cerro Azul
+30,34,1,Cerro Azul
+30,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,35,0,Citlaltépetl
+30,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,36,0,Coacoatzintla
+30,36,1,Coacoatzintla
+30,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,37,0,Coahuitlán
+30,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,38,0,Coatepec
+30,38,1,Coatepec
+30,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,39,0,Coatzacoalcos
+30,39,1,Coatzacoalcos
+30,40,0,Coatzintla
+30,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,42,0,Colipa
+30,42,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,43,0,Comapa
+30,43,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,44,0,Córdoba
+30,44,1,Córdoba
+30,44,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,44,9999,Localidad no especificada
+30,45,0,Cosamaloapan de Carpio
+30,45,1,Cosamaloapan
+30,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,46,0,Cosautlán de Carvajal
+30,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,47,0,Coscomatepec
+30,47,1,Coscomatepec de Bravo
+30,47,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,48,0,Cosoleacaque
+30,48,1,Cosoleacaque
+30,48,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,49,0,Cotaxtla
+30,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,50,0,Coxquihui
+30,50,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,51,0,Coyutla
+30,51,1,Coyutla
+30,51,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,52,0,Cuichapa
+30,52,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,53,0,Cuitláhuac
+30,53,1,Cuitláhuac
+30,53,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,58,0,Chicontepec
+30,58,1,Chicontepec de Tejeda
+30,58,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,59,0,Chinameca
+30,59,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,60,0,Chinampa de Gorostiza
+30,60,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,61,0,Las Choapas
+30,61,1,Las Choapas
+30,62,0,Chocamán
+30,62,1,Chocamán
+30,62,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,63,0,Chontla
+30,63,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,64,0,Chumatlán
+30,64,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,65,0,Emiliano Zapata
+30,65,1,Dos Ríos
+30,65,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,66,0,Espinal
+30,66,8,Entabladero
+30,66,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,66,9999,Localidad no especificada
+30,67,0,Filomeno Mata
+30,67,1,Filomeno Mata
+30,67,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,68,0,Fortín
+30,68,1,Fortín de las Flores
+30,68,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,69,0,Gutiérrez Zamora
+30,69,1,Gutiérrez Zamora
+30,69,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,71,0,Huatusco
+30,71,1,Huatusco de Chicuellar
+30,71,12,Elotepec
+30,71,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,71,9999,Localidad no especificada
+30,72,0,Huayacocotla
+30,72,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,72,9999,Localidad no especificada
+30,73,0,Hueyapan de Ocampo
+30,73,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,75,0,Ignacio de la Llave
+30,75,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,76,0,Ilamatlán
+30,76,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,77,0,Isla
+30,77,1,Isla
+30,77,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,78,0,Ixcatepec
+30,78,1,Ixcatepec
+30,79,0,Ixhuacán de los Reyes
+30,79,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,79,9999,Localidad no especificada
+30,80,0,Ixhuatlán del Café
+30,80,1,Ixhuatlán del Café
+30,80,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,81,0,Ixhuatlancillo
+30,81,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,83,0,Ixhuatlán de Madero
+30,83,1,Ixhuatlán de Madero
+30,83,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,85,0,Ixtaczoquitlán
+30,85,1,Ixtaczoquitlán
+30,85,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,86,0,Jalacingo
+30,86,1,Jalacingo
+30,86,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,87,0,Xalapa
+30,87,1,XalapaÁEnríquez
+30,89,0,Jáltipan
+30,89,1,Jáltipan de Morelos
+30,89,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,90,0,Jamapa
+30,90,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,91,0,Jesús Carranza
+30,91,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,92,0,Xico
+30,92,1,Xico
+30,92,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,94,0,Juan Rodríguez Clara
+30,94,1,Juan Rodríguez Clara
+30,95,0,Juchique de Ferrer
+30,95,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,97,0,Lerdo de Tejada
+30,97,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,99,0,Maltrata
+30,99,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,100,0,Manlio Fabio Altamirano
+30,100,1,Manlio Fabio Altamirano
+30,100,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,100,9999,Localidad no especificada
+30,101,0,Mariano Escobedo
+30,101,1,Mariano Escobedo
+30,101,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,102,0,Martínez de la Torre
+30,102,1,Martínez de la Torre
+30,102,30,Independencia
+30,102,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,102,9999,Localidad no especificada
+30,103,0,Mecatlán
+30,103,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,104,0,Mecayapan
+30,104,22,Tonalapa
+30,104,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,105,0,Medellín de Bravo
+30,105,1,Medellín
+30,105,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,105,9999,Localidad no especificada
+30,106,0,Miahuatlán
+30,106,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,108,0,Minatitlán
+30,108,1,Minatitlán
+30,108,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,108,9999,Localidad no especificada
+30,109,0,Misantla
+30,109,1,Misantla
+30,109,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,109,9999,Localidad no especificada
+30,110,0,Mixtla de Altamirano
+30,110,42,Axoxohuilco
+30,110,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,111,0,Moloacán
+30,111,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,112,0,Naolinco
+30,112,1,Naolinco de Victoria
+30,112,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,113,0,Naranjal
+30,113,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,114,0,Nautla
+30,114,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,115,0,Nogales
+30,115,1,Nogales
+30,115,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,115,9999,Localidad no especificada
+30,116,0,Oluta
+30,116,1,Oluta
+30,116,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,117,0,Omealca
+30,117,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,118,0,Orizaba
+30,118,1,Orizaba
+30,118,9999,Localidad no especificada
+30,120,0,Oteapan
+30,120,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,122,0,Pajapan
+30,122,1,Pajapan
+30,122,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,123,0,Pánuco
+30,123,1,Pánuco
+30,123,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,124,0,Papantla
+30,124,1,Papantla de Olarte
+30,124,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,125,0,Paso del Macho
+30,125,1,Paso del Macho
+30,125,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,126,0,Paso de Ovejas
+30,126,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,126,9999,Localidad no especificada
+30,127,0,La Perla
+30,127,1,La Perla
+30,127,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,128,0,Perote
+30,128,1,Perote
+30,128,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,130,0,Playa Vicente
+30,130,1,Playa Vicente
+30,130,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,131,0,Poza Rica de Hidalgo
+30,131,1,Poza Rica de Hidalgo
+30,132,0,Las Vigas de Ramírez
+30,132,1,Las Vigas de Ramírez
+30,132,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,133,0,Pueblo Viejo
+30,133,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,134,0,Puente Nacional
+30,134,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,135,0,Rafael Delgado
+30,135,1,Rafael Delgado
+30,138,0,Río Blanco
+30,138,1,Río Blanco
+30,138,9999,Localidad no especificada
+30,139,0,Saltabarranca
+30,139,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,140,0,San Andrés Tenejapan
+30,140,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,141,0,San Andrés Tuxtla
+30,141,1,San Andrés Tuxtla
+30,141,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,143,0,Santiago Tuxtla
+30,143,1,Santiago Tuxtla
+30,143,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,144,0,Sayula de Alemán
+30,144,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,146,0,Sochiapa
+30,146,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,147,0,Soledad Atzompa
+30,147,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,148,0,Soledad de Doblado
+30,148,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,149,0,Soteapan
+30,149,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,150,0,Tamalín
+30,150,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,151,0,Tamiahua
+30,151,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,152,0,Tampico Alto
+30,152,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,154,0,Tantima
+30,154,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,155,0,Tantoyuca
+30,155,1,Tantoyuca
+30,155,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,156,0,Tatatila
+30,156,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,157,0,Castillo de Teayo
+30,157,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,158,0,Tecolutla
+30,158,1,Tecolutla
+30,158,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,159,0,Tehuipango
+30,159,1,Tehuipango
+30,159,10,Xopilapa
+30,159,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,160,0,Álamo Temapache
+30,160,1,Álamo
+30,160,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,161,0,Tempoal
+30,161,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,162,0,Tenampa
+30,162,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,163,0,Tenochtitlán
+30,163,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,164,0,Teocelo
+30,164,1,Teocelo
+30,164,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,166,0,Tepetlán
+30,166,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,168,0,Tequila
+30,168,9999,Localidad no especificada
+30,171,0,Texhuacán
+30,171,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,172,0,Texistepec
+30,172,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,173,0,Tezonapa
+30,173,1,Tezonapa
+30,173,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,174,0,Tierra Blanca
+30,174,1,Tierra Blanca
+30,174,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,175,0,Tihuatlán
+30,175,1,Tihuatlán
+30,175,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,177,0,Tlacolulan
+30,177,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,178,0,Tlacotalpan
+30,178,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,180,0,Tlachichilco
+30,180,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,181,0,Tlalixcoyan
+30,181,1,Tlalixcoyan
+30,181,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,182,0,Tlalnelhuayocan
+30,182,1,Tlalnelhuayocan
+30,182,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,183,0,Tlapacoyan
+30,183,1,Tlapacoyan
+30,183,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,184,0,Tlaquilpa
+30,184,1,Tlaquilpa
+30,184,26,Vista Hermosa
+30,184,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,185,0,Tlilapan
+30,185,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,186,0,Tomatlán
+30,186,1,Tomatlán
+30,187,0,Tonayán
+30,187,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,188,0,Totutla
+30,188,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,189,0,Tuxpan
+30,189,1,Túxpam de Rodríguez Cano
+30,189,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,191,0,Ursulo Galván
+30,191,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,192,0,Vega de Alatorre
+30,192,1,Vega de Alatorre
+30,192,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,193,0,Veracruz
+30,193,1,Veracruz
+30,194,0,Villa Aldama
+30,194,1,Villa Aldama
+30,194,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,195,0,Xoxocotla
+30,195,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,196,0,Yanga
+30,196,1,Yanga
+30,197,0,Yecuatla
+30,197,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,198,0,Zacualpan
+30,198,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,199,0,Zaragoza
+30,199,1,Zaragoza
+30,200,0,Zentla
+30,200,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,201,0,Zongolica
+30,201,1,Zongolica
+30,201,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,201,9999,Localidad no especificada
+30,202,0,Zontecomatlán de López y Fuentes
+30,202,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,203,0,Zozocolco de Hidalgo
+30,203,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,204,0,Agua Dulce
+30,204,1,Agua Dulce
+30,204,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,206,0,Nanchital de Lázaro Cárdenas del Río
+30,206,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,207,0,Tres Valles
+30,207,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,208,0,Carlos A. Carrillo
+30,208,1,Carlos A. Carrillo
+30,209,0,Tatahuicapan de Juárez
+30,209,1,Tatahuicapan
+30,209,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,210,0,Uxpanapa
+30,210,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+30,211,0,San Rafael
+30,211,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,0,0,Yucatán
+31,1,0,Abalá
+31,1,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,2,0,Acanceh
+31,2,1,Acanceh
+31,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,3,0,Akil
+31,3,1,Akil
+31,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,4,0,Baca
+31,4,1,Baca
+31,5,0,Bokobá
+31,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,7,0,Cacalchén
+31,7,9999,Localidad no especificada
+31,8,0,Calotmul
+31,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,9,0,Cansahcab
+31,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,10,0,Cantamayec
+31,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,11,0,Celestún
+31,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,13,0,Conkal
+31,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,15,0,Cuzamá
+31,15,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,16,0,Chacsinkín
+31,16,1,Chacsinkín
+31,17,0,Chankom
+31,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,18,0,Chapab
+31,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,19,0,Chemax
+31,19,1,Chemax
+31,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,21,0,Chichimilá
+31,21,1,Chichimilá
+31,23,0,Chocholá
+31,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,24,0,Chumayel
+31,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,25,0,Dzan
+31,25,1,Dzan
+31,30,0,Dzitás
+31,30,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,31,0,Dzoncauich
+31,31,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,32,0,Espita
+31,32,1,Espita
+31,33,0,Halachó
+31,33,1,Halachó
+31,33,2,Cepeda
+31,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,34,0,Hocabá
+31,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,35,0,Hoctún
+31,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,36,0,Homún
+31,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,37,0,Huhí
+31,37,1,Huhí
+31,38,0,Hunucmá
+31,38,1,Hunucmá
+31,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,40,0,Izamal
+31,40,1,Izamal
+31,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,41,0,Kanasín
+31,41,1,Kanasín
+31,44,0,Kinchil
+31,44,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,45,0,Kopomá
+31,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,46,0,Mama
+31,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,47,0,Maní
+31,47,1,Maní
+31,48,0,Maxcanú
+31,48,1,Maxcanú
+31,48,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,50,0,Mérida
+31,50,1,Mérida
+31,50,84,Cholul
+31,50,144,Xcunyá
+31,50,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,50,9999,Localidad no especificada
+31,52,0,Motul
+31,52,1,Motul de Carrillo Puerto
+31,52,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,53,0,Muna
+31,53,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,55,0,Opichén
+31,55,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,56,0,Oxkutzcab
+31,56,1,Oxkutzcab
+31,56,9999,Localidad no especificada
+31,57,0,Panabá
+31,57,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,58,0,Peto
+31,58,1,Peto
+31,58,9999,Localidad no especificada
+31,59,0,Progreso
+31,59,1,Progreso
+31,59,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,62,0,Sacalum
+31,62,1,Sacalum
+31,62,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,63,0,Samahil
+31,63,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,65,0,San Felipe
+31,65,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,69,0,Sotuta
+31,69,1,Sotuta
+31,70,0,Sucilá
+31,70,1,Sucilá
+31,71,0,Sudzal
+31,71,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,73,0,Tahdziú
+31,73,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,75,0,Teabo
+31,75,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,76,0,Tecoh
+31,76,1,Tecoh
+31,76,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,77,0,Tekal de Venegas
+31,77,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,79,0,Tekax
+31,79,1,Tekax de Álvaro Obregón
+31,79,36,Xaya
+31,79,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,82,0,Telchac Pueblo
+31,82,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,83,0,Telchac Puerto
+31,83,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,85,0,Temozón
+31,85,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,87,0,Tetiz
+31,87,1,Tetiz
+31,87,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,88,0,Teya
+31,88,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,89,0,Ticul
+31,89,1,Ticul
+31,90,0,Timucuy
+31,90,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,91,0,Tinum
+31,91,1,Tinum
+31,91,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,92,0,Tixcacalcupul
+31,92,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,93,0,Tixkokob
+31,93,1,Tixkokob
+31,93,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,94,0,Tixmehuac
+31,94,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,95,0,Tixpéhual
+31,95,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,96,0,Tizimín
+31,96,1,Tizimín
+31,96,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,98,0,Tzucacab
+31,98,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,100,0,Ucú
+31,100,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,101,0,Umán
+31,101,1,Umán
+31,101,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,101,9999,Localidad no especificada
+31,102,0,Valladolid
+31,102,1,Valladolid
+31,102,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,102,9999,Localidad no especificada
+31,103,0,Xocchel
+31,103,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,104,0,Yaxcabá
+31,104,1,Yaxcabá
+31,104,43,Yaxunah
+31,104,52,Tixcacaltuyub
+31,104,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,105,0,Yaxkukul
+31,105,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+31,106,0,Yobaín
+31,106,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,0,0,Zacatecas
+32,2,0,Apulco
+32,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,3,0,Atolinga
+32,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,4,0,Benito Juárez
+32,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,5,0,Calera
+32,5,1,Víctor Rosales
+32,5,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,7,0,Concepción del Oro
+32,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,8,0,Cuauhtémoc
+32,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,10,0,Fresnillo
+32,10,1,Fresnillo
+32,10,165,Plateros
+32,10,189,Río Florido
+32,10,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,10,9999,Localidad no especificada
+32,12,0,Genaro Codina
+32,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,14,0,General Francisco R. Murguía
+32,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,16,0,General Pánfilo Natera
+32,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,17,0,Guadalupe
+32,17,1,Guadalupe
+32,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,17,9999,Localidad no especificada
+32,19,0,Jalpa
+32,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,20,0,Jerez
+32,20,1,Jerez de García Salinas
+32,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,21,0,Jiménez del Teul
+32,21,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,22,0,Juan Aldama
+32,22,1,Juan Aldama
+32,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,23,0,Juchipila
+32,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,24,0,Loreto
+32,24,1,Loreto
+32,24,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,25,0,Luis Moya
+32,25,1,Luis Moya
+32,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,29,0,Miguel Auza
+32,29,1,Miguel Auza
+32,32,0,Morelos
+32,32,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,34,0,Nochistlán de Mejía
+32,34,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,35,0,Noria de Ángeles
+32,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,36,0,Ojocaliente
+32,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,37,0,Pánuco
+32,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,38,0,Pinos
+32,38,1,Pinos
+32,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,39,0,Río Grande
+32,39,1,Río Grande
+32,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,40,0,Sain Alto
+32,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,42,0,Sombrerete
+32,42,1,Sombrerete
+32,42,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,43,0,Susticacán
+32,43,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,44,0,Tabasco
+32,44,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,45,0,Tepechitlán
+32,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,46,0,Tepetongo
+32,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,47,0,Teúl de González Ortega
+32,47,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,48,0,Tlaltenango de Sánchez Román
+32,48,1,Tlaltenango de Sánchez Román
+32,48,9999,Localidad no especificada
+32,49,0,Valparaíso
+32,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,51,0,Villa de Cos
+32,51,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,52,0,Villa García
+32,52,1,Villa García
+32,53,0,Villa González Ortega
+32,53,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,54,0,Villa Hidalgo
+32,54,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,55,0,Villanueva
+32,55,1,Villanueva
+32,56,0,Zacatecas
+32,56,1,Zacatecas
+32,57,0,Trancoso
+32,57,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+32,999,0,Municipio no especificado
+32,999,9999,Localidad no especificada
+33,0,0,Estados Unidos de Norteamérica
+33,999,0,Municipio no especificado
+33,999,9999,Localidad no especificada
+34,0,0,Otros Países de Latinoamericanos
+34,999,0,Municipio no especificado
+34,999,9999,Localidad no especificada
+35,0,0,Otros Países
+35,999,0,Municipio no especificado
+35,999,9999,Localidad no especificada
